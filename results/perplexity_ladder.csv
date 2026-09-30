@@ -1,0 +1,52 @@
+model,build,level,tag,ppl,ppl_err,chunks,ctx,ppl_delta_pct,probeB_t2,gguf_sha256
+Granite-4.0-H-1B,unsloth (probe-matched),fp16,hf.co/unsloth/granite-4.0-h-1b-GGUF:BF16,11.7964,0.21331,100,512,0.0,0.8438228438228438,sha256-3a213822758f5caad0e400b1b5d788bb03d296974ab18fb900dfcd39bfb19e87
+Granite-4.0-H-1B,unsloth (probe-matched),q8,hf.co/unsloth/granite-4.0-h-1b-GGUF:Q8_0,11.8328,0.21403,100,512,0.3,0.8414918414918415,sha256-5fbb22e0f066d94ffbd79b90b4b0d882c7eba09d80a8d3ba01abf8dd098e002c
+Granite-4.0-H-1B,unsloth (probe-matched),q6,hf.co/unsloth/granite-4.0-h-1b-GGUF:Q6_K,11.8434,0.21354,100,512,0.4,0.8344988344988346,sha256-cb9cb21d380b5e3128ff402503950a389ea8f53e76c3c34e198a4b1d839047db
+Granite-4.0-H-1B,unsloth (probe-matched),q5,hf.co/unsloth/granite-4.0-h-1b-GGUF:Q5_K_M,11.9784,0.21685,100,512,1.5,0.8578088578088578,sha256-5c5d66ff9a3910fc66c19f860cb0f65ac4673053262c030a3061b9cfd385a4e5
+Granite-4.0-H-1B,unsloth (probe-matched),q4,hf.co/unsloth/granite-4.0-h-1b-GGUF:Q4_K_M,12.2538,0.22262,100,512,3.9,0.8181818181818182,sha256-fd3b85f09520df9d898e2bbcf5da22fc518dbf9d662bb52e214d946c72aafacc
+Granite-4.0-H-1B,unsloth (probe-matched),q3,hf.co/unsloth/granite-4.0-h-1b-GGUF:Q3_K_M,13.5088,0.24911,100,512,14.5,0.8135198135198135,sha256-0b9817b5965f7678d33ed6489adc6f8c9e51e3337dcacd5fb3ae54f5c7692118
+Granite-4.0-H-1B,unsloth (probe-matched),q2,hf.co/unsloth/granite-4.0-h-1b-GGUF:Q2_K,17.4159,0.32245,100,512,47.6,0.4755244755244755,sha256-6e7c25ec0c75d4f0d4dab56876c6a8e229529e80432f333b1c65b8ef4cb5fdad
+LFM2.5-1.2B,unsloth (probe-matched),fp16,hf.co/unsloth/LFM2.5-1.2B-Instruct-GGUF:BF16,19.5014,0.37302,100,512,0.0,0.7226107226107226,sha256-bc646c6f49514e86b91f8a4eeb2e6779c0f0dcb0d737b3ebb9ae79454053fbc2
+LFM2.5-1.2B,unsloth (probe-matched),q8,hf.co/unsloth/LFM2.5-1.2B-Instruct-GGUF:Q8_0,19.6673,0.37732,100,512,0.9,0.7202797202797203,sha256-b808eead8d6061f71990ab7b144c5ca6650fad219aa7acc407fe5fb26abf3dc2
+LFM2.5-1.2B,unsloth (probe-matched),q6,hf.co/unsloth/LFM2.5-1.2B-Instruct-GGUF:Q6_K,19.5123,0.3725,100,512,0.1,0.7319347319347319,sha256-3d3bd155a8b063a2a40b3c63be218e868023d582391a4650e6467b9947459952
+LFM2.5-1.2B,unsloth (probe-matched),q5,hf.co/unsloth/LFM2.5-1.2B-Instruct-GGUF:Q5_K_M,19.6117,0.37521,100,512,0.6,0.710955710955711,sha256-7ad5eef540097e1afc0118799e5d22005c0c1721cba0a2b01bed287e4888baaf
+LFM2.5-1.2B,unsloth (probe-matched),q4,hf.co/unsloth/LFM2.5-1.2B-Instruct-GGUF:Q4_K_M,21.7707,0.42485,100,512,11.6,0.696969696969697,sha256-856aeee6d85ac684b1db8dee48795b44fc06731ecda03aee36ece682413a9b9a
+LFM2.5-1.2B,unsloth (probe-matched),q3,hf.co/unsloth/LFM2.5-1.2B-Instruct-GGUF:Q3_K_M,24.8047,0.48974,100,512,27.2,0.6037296037296037,sha256-b269b23aa907e73bc4f84a694b1d815b3d99ead2f8679e22c584e0bdfa8e4cb2
+LFM2.5-1.2B,unsloth (probe-matched),q2,hf.co/unsloth/LFM2.5-1.2B-Instruct-GGUF:Q2_K,46.4019,0.93799,100,512,137.9,0.3682983682983683,sha256-b5b392f0e4dc6d66d1d17ae43a956ed1edd46f2decd11ae87aa3fdaff668f8f6
+Qwen2.5-0.5B,ollama (probe-matched),fp16,qwen2.5:0.5b-instruct-fp16,15.2906,0.2736,100,512,0.0,0.6783216783216783,sha256-6f96e01a3f550ca08aea1e5725bb8d5a7eccc6f281c30417e9d380b8c46467bd
+Qwen2.5-0.5B,ollama (probe-matched),q8,qwen2.5:0.5b-instruct-q8_0,15.3576,0.27512,100,512,0.4,0.6526806526806527,sha256-4829649671bf775152642cfbbe771ef8b87a68a94e31a8e8995e1c6e5167edb2
+Qwen2.5-0.5B,ollama (probe-matched),q4,qwen2.5:0.5b-instruct-q4_K_M,15.876,0.28857,100,512,3.8,0.627039627039627,sha256-c5396e06af294bd101b30dce59131a76d2b773e76950acc870eda801d3ab0515
+Qwen2.5-0.5B,ollama (probe-matched),q3,qwen2.5:0.5b-instruct-q3_K_M,16.4937,0.29929,100,512,7.9,0.662004662004662,sha256-98973f040a29557d02fdfd332c21d3829ccfbbed1f7b901c24b13e12d1ee2edb
+Qwen2.5-0.5B,ollama (probe-matched),q2,qwen2.5:0.5b-instruct-q2_K,19.2463,0.34915,100,512,25.9,0.5407925407925408,sha256-b143160a17651a12287472981834c46d439aa02aea2e98fe232ad443894fdb49
+Qwen2.5-1.5B,ollama (probe-matched),fp16,qwen2.5:1.5b-instruct-fp16,10.1765,0.16817,100,512,0.0,0.8717948717948718,
+Qwen2.5-1.5B,ollama (probe-matched),q8,qwen2.5:1.5b-instruct-q8_0,10.1944,0.16845,100,512,0.2,0.8694638694638694,
+Qwen2.5-1.5B,ollama (probe-matched),q4,qwen2.5:1.5b-instruct-q4_K_M,10.7476,0.17981,100,512,5.6,0.8508158508158508,
+Qwen2.5-1.5B,ollama (probe-matched),q3,qwen2.5:1.5b-instruct-q3_K_M,12.2532,0.2094,100,512,20.4,0.8111888111888111,
+Qwen2.5-1.5B,ollama (probe-matched),q2,qwen2.5:1.5b-instruct-q2_K,24.9602,0.45944,100,512,145.3,0.2913752913752914,
+Qwen2.5-3B,ollama (probe-matched),fp16,qwen2.5:3b-instruct-fp16,9.0386,0.14994,100,512,0.0,0.8904428904428905,sha256-bfa0216b48c79e4518d5c69ee572eaf8b517892a19048b9e7388fb1442165cdb
+Qwen2.5-3B,ollama (probe-matched),q8,qwen2.5:3b-instruct-q8_0,9.0565,0.15028,100,512,0.2,0.8881118881118881,sha256-4420ccb0f1d9e12811d04ae2a28ec881469305f813c62d86c10e595ef8e0111d
+Qwen2.5-3B,ollama (probe-matched),q6,qwen2.5:3b-instruct-q6_K,9.1104,0.15153,100,512,0.8,0.8811188811188811,sha256-f9194686943b0d22614e7c49f985c37b9e3c60833595bd0bee7a70baa69a2990
+Qwen2.5-3B,ollama (probe-matched),q4,qwen2.5:3b-instruct-q4_K_M,9.5247,0.15948,100,512,5.4,0.8741258741258742,sha256-5ee4f07cdb9beadbbb293e85803c569b01bd37ed059d2715faa7bb405f31caa6
+Qwen2.5-3B,ollama (probe-matched),q3,qwen2.5:3b-instruct-q3_K_M,15.3789,0.27398,100,512,70.1,0.4708624708624708,sha256-2210adea5b397c030188539f3b8a30c9cfe20fabb622145ba6f82d0f793813d2
+Qwen2.5-3B,ollama (probe-matched),q2,qwen2.5:3b-instruct-q2_K,21796.6251,493.03982,100,512,241050.5,0.0,sha256-86d9cc04d69eb4b692a787735411735172107ca2832c352bf7c7ca69b5210d24
+Qwen2.5-7B,ollama (probe-matched),fp16,qwen2.5:7b-instruct-fp16,7.7142,0.12954,100,512,0.0,0.8974358974358975,sha256-678e1e0883636c4234928f23fd208337f790456121124a1986cbf1b806baeadb
+Qwen2.5-7B,ollama (probe-matched),q8,qwen2.5:7b-instruct-q8_0,7.718,0.1297,100,512,0.0,0.902097902097902,sha256-3603045b543e1c0dfb27f126a3642e7f805e480b84c4781e3d848ace971cba7a
+Qwen2.5-7B,ollama (probe-matched),q4,qwen2.5:7b-instruct-q4_K_M,7.8824,0.13279,100,512,2.2,0.9044289044289044,sha256-2bada8a7450677000f678be90653b85d364de7db25eb5ea54136ada5f3933730
+Qwen2.5-7B,ollama (probe-matched),q3,qwen2.5:7b-instruct-q3_K_M,8.4271,0.14391,100,512,9.2,0.8834498834498834,sha256-427b3d95aca8ce3bc2ac6f5a459e4b55f14cbc4aaa656fa2913c3fa59a9fe932
+Qwen2.5-7B,ollama (probe-matched),q2,qwen2.5:7b-instruct-q2_K,11.1649,0.19544,100,512,44.7,0.8648018648018648,sha256-799735a41f235b3d35b192dcb99a6a555e7c190cc747754f231045643eb5b131
+Llama-3.2-1B,ollama (probe-matched),fp16,llama3.2:1b-instruct-fp16,15.1432,0.2673,100,512,0.0,0.8205128205128205,sha256-1ec85b6f7ac019cc3b9f025213672fec438881df00df953cc37e92b2cee9a995
+Llama-3.2-1B,ollama (probe-matched),q8,llama3.2:1b-instruct-q8_0,15.1431,0.26736,100,512,-0.0,0.8181818181818182,sha256-74701a8c35f6c8d9a4b91f3f3497643001d63e0c7a84e085bed452548fa88d45
+Llama-3.2-1B,ollama (probe-matched),q4,llama3.2:1b-instruct-q4_K_M,15.5501,0.27321,100,512,2.7,0.8344988344988346,sha256-84fffd9ce0ecc7e0a36ec7a3c3aa21bb888213f8bf3db9408d5520a26412f06e
+Llama-3.2-1B,ollama (probe-matched),q3,llama3.2:1b-instruct-q3_K_M,17.5347,0.30811,100,512,15.8,0.7855477855477856,sha256-4aad99b45e1ed1c05952eda608b951cd6e28a99aa366f3f6e2324653fa1ba593
+Llama-3.2-1B,ollama (probe-matched),q2,llama3.2:1b-instruct-q2_K,39.0726,0.74377,100,512,158.0,0.3193473193473193,sha256-d1ede02a2111e30c0585383c5702933a07f1d6d7cb9e5727ae41d48e3885d1f3
+Llama-3.2-1B,unsloth (probe-matched),fp16,hf.co/unsloth/Llama-3.2-1B-Instruct-GGUF:Llama-3.2-1B-Instruct-F16.gguf,15.1432,0.2673,100,512,0.0,0.8438228438228438,sha256-7e2a46fe01895b16776ed927aac8f56c5661a06d47c8a6f87ec297c805fbe3c2
+Llama-3.2-1B,unsloth (probe-matched),q8,hf.co/unsloth/Llama-3.2-1B-Instruct-GGUF:Llama-3.2-1B-Instruct-Q8_0.gguf,15.1431,0.26736,100,512,-0.0,0.8414918414918415,sha256-3f87a880027e7b9ea8e0da9e4009584336f352af444a0e6e5c20721ac4c7ffd1
+Llama-3.2-1B,unsloth (probe-matched),q4,hf.co/unsloth/Llama-3.2-1B-Instruct-GGUF:Llama-3.2-1B-Instruct-Q4_K_M.gguf,15.6224,0.27634,100,512,3.2,0.8018648018648019,sha256-3f5a22426976ab26cfe84dba63c1d08391717abb1af893e10f1b2968d862dcc1
+Llama-3.2-1B,unsloth (probe-matched),q3,hf.co/unsloth/Llama-3.2-1B-Instruct-GGUF:Llama-3.2-1B-Instruct-Q3_K_M.gguf,16.6771,0.29627,100,512,10.1,0.7995337995337995,sha256-38b98a4abebe441bbb52c6364a79abe026593516df25424e0ef2410d38db715e
+Llama-3.2-1B,unsloth (probe-matched),q2,hf.co/unsloth/Llama-3.2-1B-Instruct-GGUF:Llama-3.2-1B-Instruct-Q2_K.gguf,29.3388,0.55413,100,512,93.7,0.4755244755244755,sha256-8b7091a92bc10d70392a91ebe06cd43e1f5048ae0162e88f8fbe8445447ceae8
+Granite-4.0-H-7B,unsloth (probe-matched; Q8 baseline),q8,hf.co/unsloth/granite-4.0-h-tiny-GGUF:Q8_0,9.0913,0.15427,100,512,0.0,0.8951048951048951,sha256-cd2132d2a338b607e690a20e3533da0c39c9d9488b99382b4cc0a4a77aa6f76b
+Granite-4.0-H-7B,unsloth (probe-matched; Q8 baseline),q6,hf.co/unsloth/granite-4.0-h-tiny-GGUF:Q6_K,9.0997,0.15442,100,512,0.1,0.8787878787878788,sha256-db2970d74c05c9058340c47806dc8094e2496e993f5ac977851ac1d9ec5f7ad8
+Granite-4.0-H-7B,unsloth (probe-matched; Q8 baseline),q5,hf.co/unsloth/granite-4.0-h-tiny-GGUF:Q5_K_M,9.1431,0.15543,100,512,0.6,0.8811188811188811,sha256-e0097e394dc8759861f44f6e71635ed746113f644069bd233f070b5a2b95d36b
+Granite-4.0-H-7B,unsloth (probe-matched; Q8 baseline),q4,hf.co/unsloth/granite-4.0-h-tiny-GGUF:Q4_K_M,9.2032,0.15703,100,512,1.2,0.8974358974358975,sha256-d9baffe0c4c061e699ddeb8a51271f1e1bab29579a27ad3f213bf621a30b24ee
+Granite-4.0-H-7B,unsloth (probe-matched; Q8 baseline),q3,hf.co/unsloth/granite-4.0-h-tiny-GGUF:Q3_K_M,9.6001,0.16486,100,512,5.6,0.8857808857808858,sha256-01f145ef4998efa1dd3f9b288cdca211a026ad15e9cb0098868e25c18787b41d
+Granite-4.0-H-7B,unsloth (probe-matched; Q8 baseline),q2,hf.co/unsloth/granite-4.0-h-tiny-GGUF:Q2_K,10.7276,0.18674,100,512,18.0,0.9067599067599068,sha256-ee0c55021271db5068cbfa9a0d4748869fbc288c55c2e59b11c088eab6f65324

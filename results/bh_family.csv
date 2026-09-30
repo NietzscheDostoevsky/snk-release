@@ -1,0 +1,437 @@
+experiment,model,baseline,word_type,probe,test,p_raw,p_bh,significant_raw,significant_bh
+Experiment-12-gemma2_2b-instruct-429-words,gemma_q2,gemma_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.057036388142675025,0.19277414907136675,False,False
+Experiment-12-gemma2_2b-instruct-429-words,gemma_q2,gemma_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",4.728279371185723e-05,0.00037482360106126823,True,True
+Experiment-12-gemma2_2b-instruct-429-words,gemma_q4,gemma_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.005439058547772569,0.027257810653205056,True,True
+Experiment-12-gemma2_2b-instruct-429-words,gemma_q4,gemma_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.13739482585580076,0.3815550577906314,False,False
+Experiment-12-gemma2_2b-instruct-429-words,gemma_q6,gemma_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.23895293505078774,0.5206624792710917,False,False
+Experiment-12-gemma2_2b-instruct-429-words,gemma_q6,gemma_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-12-gemma2_2b-instruct-429-words,gemma_q8,gemma_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.041996472870426266,0.1513261336488087,True,False
+Experiment-12-gemma2_2b-instruct-429-words,gemma_q8,gemma_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.6830913983096086,0.9191464318579334,False,False
+Experiment-13-llama3.2_3b-instruct-429-words,llama_q2,llama_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),7.1196025459374256e-06,6.334993285772892e-05,True,True
+Experiment-13-llama3.2_3b-instruct-429-words,llama_q2,llama_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",8.612201221049013e-08,9.387299330943424e-07,True,True
+Experiment-13-llama3.2_3b-instruct-429-words,llama_q4,llama_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.1024455359608152,0.30804312882010637,False,False
+Experiment-13-llama3.2_3b-instruct-429-words,llama_q4,llama_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-13-llama3.2_3b-instruct-429-words,llama_q6,llama_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.6501069245653487,0.8954871055455387,False,False
+Experiment-13-llama3.2_3b-instruct-429-words,llama_q6,llama_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.5049850750938457,0.7935785451454349,False,False
+Experiment-13-llama3.2_3b-instruct-429-words,llama_q8,llama_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.7881722399175722,0.9545641572335041,False,False
+Experiment-13-llama3.2_3b-instruct-429-words,llama_q8,llama_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.22067136191984324,0.5119426144557557,False,False
+Experiment-14-mistral_7b-instruct-429-words,mistral_q2,mistral_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.09017646472283486,0.27687984943067606,False,False
+Experiment-14-mistral_7b-instruct-429-words,mistral_q2,mistral_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.017548950191476703,0.07286438069165485,True,False
+Experiment-14-mistral_7b-instruct-429-words,mistral_q4,mistral_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.238403342039485,0.5206624792710917,False,False
+Experiment-14-mistral_7b-instruct-429-words,mistral_q4,mistral_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.8711314915971582,0.9927709340287,False,False
+Experiment-14-mistral_7b-instruct-429-words,mistral_q6,mistral_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.8410309070531328,0.9883907687050594,False,False
+Experiment-14-mistral_7b-instruct-429-words,mistral_q6,mistral_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.1456100953968629,0.39928302888699513,False,False
+Experiment-14-mistral_7b-instruct-429-words,mistral_q8,mistral_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.616784293659298,0.8650956069744714,False,False
+Experiment-14-mistral_7b-instruct-429-words,mistral_q8,mistral_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-15-mistral-nemo-12b-instruct-429-words,nemo_q2,nemo_q8,rare,A,Wilcoxon signed-rank (per-word fractions),0.003726793966259486,0.01934383534868019,True,True
+Experiment-15-mistral-nemo-12b-instruct-429-words,nemo_q2,nemo_q8,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.0022366244452098703,0.012831161290940835,True,True
+Experiment-15-mistral-nemo-12b-instruct-429-words,nemo_q3_m,nemo_q8,rare,A,Wilcoxon signed-rank (per-word fractions),0.3520101996122196,0.6558822522689219,False,False
+Experiment-15-mistral-nemo-12b-instruct-429-words,nemo_q3_m,nemo_q8,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.14863471074776885,0.40002922151868653,False,False
+Experiment-15-mistral-nemo-12b-instruct-429-words,nemo_q4,nemo_q8,rare,A,Wilcoxon signed-rank (per-word fractions),0.4431618446314899,0.7263855799222917,False,False
+Experiment-15-mistral-nemo-12b-instruct-429-words,nemo_q4,nemo_q8,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.8501067391385259,0.9883907687050594,False,False
+Experiment-15-mistral-nemo-12b-instruct-429-words,nemo_q6,nemo_q8,rare,A,Wilcoxon signed-rank (per-word fractions),0.6859946890035219,0.9191464318579334,False,False
+Experiment-15-mistral-nemo-12b-instruct-429-words,nemo_q6,nemo_q8,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.7236736098317629,0.9320737423450656,False,False
+Experiment-16-llama3.2_1b-instruct-429-words,llama3.2_1b_q2,llama3.2_1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),6.493613366842863e-37,2.3593461899529068e-35,True,True
+Experiment-16-llama3.2_1b-instruct-429-words,llama3.2_1b_q2,llama3.2_1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.4119046788797286e-43,7.69488049989452e-42,True,True
+Experiment-16-llama3.2_1b-instruct-429-words,llama3.2_1b_q3,llama3.2_1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.012010444739451518,0.05398509181856558,True,False
+Experiment-16-llama3.2_1b-instruct-429-words,llama3.2_1b_q3,llama3.2_1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.09191104899535953,0.2802322892445927,False,False
+Experiment-16-llama3.2_1b-instruct-429-words,llama3.2_1b_q4,llama3.2_1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.6071378677660091,0.856815868982605,False,False
+Experiment-16-llama3.2_1b-instruct-429-words,llama3.2_1b_q4,llama3.2_1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.42919530044034926,0.7169699271723842,False,False
+Experiment-16-llama3.2_1b-instruct-429-words,llama3.2_1b_q8,llama3.2_1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.3271144714722163,0.6228030985235209,False,False
+Experiment-16-llama3.2_1b-instruct-429-words,llama3.2_1b_q8,llama3.2_1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-17-gemma2_9b-instruct-429-words,gemma2_9b_q2,gemma2_9b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.02096831346412354,0.08387325385649416,True,False
+Experiment-17-gemma2_9b-instruct-429-words,gemma2_9b_q2,gemma2_9b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.360196133386002,0.6598551014970457,False,False
+Experiment-17-gemma2_9b-instruct-429-words,gemma2_9b_q3,gemma2_9b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.5421553595195281,0.8113303764235342,False,False
+Experiment-17-gemma2_9b-instruct-429-words,gemma2_9b_q3,gemma2_9b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.8501067391385259,0.9883907687050594,False,False
+Experiment-17-gemma2_9b-instruct-429-words,gemma2_9b_q4,gemma2_9b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.18137406432744319,0.451910134096336,False,False
+Experiment-17-gemma2_9b-instruct-429-words,gemma2_9b_q4,gemma2_9b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.08085559837005234,0.2536189992039052,False,False
+Experiment-17-gemma2_9b-instruct-429-words,gemma2_9b_q8,gemma2_9b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.20771208572755673,0.49759598558909196,False,False
+Experiment-17-gemma2_9b-instruct-429-words,gemma2_9b_q8,gemma2_9b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-18-qwen2.5_7b-instruct-429-words,qwen_q2,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.00024502452518305887,0.0016957252853938677,True,True
+Experiment-18-qwen2.5_7b-instruct-429-words,qwen_q2,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.10416255883043908,0.31106079212377696,False,False
+Experiment-18-qwen2.5_7b-instruct-429-words,qwen_q3_L,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.9287957984232961,1.0,False,False
+Experiment-18-qwen2.5_7b-instruct-429-words,qwen_q3_L,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.8676323347781927,0.9927709340287,False,False
+Experiment-18-qwen2.5_7b-instruct-429-words,qwen_q3_M,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.1132560985535186,0.32919772646222745,False,False
+Experiment-18-qwen2.5_7b-instruct-429-words,qwen_q3_M,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.45098231926888255,0.7336876537359432,False,False
+Experiment-18-qwen2.5_7b-instruct-429-words,qwen_q3_S,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.0032655291373160826,0.018022413973035594,True,True
+Experiment-18-qwen2.5_7b-instruct-429-words,qwen_q3_S,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.005825677828368395,0.028222172590762446,True,True
+Experiment-18-qwen2.5_7b-instruct-429-words,qwen_q4,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.5507709253904469,0.8113303764235342,False,False
+Experiment-18-qwen2.5_7b-instruct-429-words,qwen_q4,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.7277235466695502,0.9320737423450656,False,False
+Experiment-18-qwen2.5_7b-instruct-429-words,qwen_q8,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.5330984785590167,0.8101847188766004,False,False
+Experiment-18-qwen2.5_7b-instruct-429-words,qwen_q8,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.6170750774519739,0.8650956069744714,False,False
+Experiment-19-phi3_3.8b-429-words,phi3-3.8B-q2,phi3-3.8B-fp16,rare,A,Wilcoxon signed-rank (per-word fractions),2.2112507073238562e-86,1.9282106167864026e-84,True,True
+Experiment-19-phi3_3.8b-429-words,phi3-3.8B-q2,phi3-3.8B-fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",5.075883674631299e-116,1.106542641069623e-113,True,True
+Experiment-19-phi3_3.8b-429-words,phi3-3.8B-q3-M,phi3-3.8B-fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.03565454888980315,0.13201504009132198,True,False
+Experiment-19-phi3_3.8b-429-words,phi3-3.8B-q3-M,phi3-3.8B-fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.17629637444050728,0.44950420617579634,False,False
+Experiment-19-phi3_3.8b-429-words,phi3-3.8B-q3-S,phi3-3.8B-fp16,rare,A,Wilcoxon signed-rank (per-word fractions),9.75655397157854e-10,1.1496912247589847e-08,True,True
+Experiment-19-phi3_3.8b-429-words,phi3-3.8B-q3-S,phi3-3.8B-fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.019604108570366,0.07988216202504277,True,False
+Experiment-19-phi3_3.8b-429-words,phi3-3.8B-q4,phi3-3.8B-fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.2266175920986636,0.5119426144557557,False,False
+Experiment-19-phi3_3.8b-429-words,phi3-3.8B-q4,phi3-3.8B-fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.16866861888781112,0.4351450759472524,False,False
+Experiment-19-phi3_3.8b-429-words,phi3-3.8B-q6,phi3-3.8B-fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.7511225202022387,0.9364053836121228,False,False
+Experiment-19-phi3_3.8b-429-words,phi3-3.8B-q6,phi3-3.8B-fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.3864762307712325,0.6801169164423471,False,False
+Experiment-19-phi3_3.8b-429-words,phi3-3.8B-q8,phi3-3.8B-fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.2759738058898601,0.5702586699904219,False,False
+Experiment-19-phi3_3.8b-429-words,phi3-3.8B-q8,phi3-3.8B-fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-20-qwen2.5_3b-instruct-429-words,qwen_q2,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),6.401769630787661e-84,4.651952598372367e-82,True,True
+Experiment-20-qwen2.5_3b-instruct-429-words,qwen_q2,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",2.0303534698525194e-115,2.950780376185661e-113,True,True
+Experiment-20-qwen2.5_3b-instruct-429-words,qwen_q3_L,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),8.515257957885141e-11,1.1602038967618503e-09,True,True
+Experiment-20-qwen2.5_3b-instruct-429-words,qwen_q3_L,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",9.374325812786224e-32,2.554503783984246e-30,True,True
+Experiment-20-qwen2.5_3b-instruct-429-words,qwen_q3_M,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),3.8080290586010523e-07,3.953096832262045e-06,True,True
+Experiment-20-qwen2.5_3b-instruct-429-words,qwen_q3_M,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",4.001792441519767e-34,1.342139618848168e-32,True,True
+Experiment-20-qwen2.5_3b-instruct-429-words,qwen_q3_S,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),1.7701819202005603e-18,2.6613769558877387e-17,True,True
+Experiment-20-qwen2.5_3b-instruct-429-words,qwen_q3_S,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",9.406153891422118e-43,3.7282573606000397e-41,True,True
+Experiment-20-qwen2.5_3b-instruct-429-words,qwen_q4_M,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.3792102384601721,0.6801169164423471,False,False
+Experiment-20-qwen2.5_3b-instruct-429-words,qwen_q4_M,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.360196133386002,0.6598551014970457,False,False
+Experiment-20-qwen2.5_3b-instruct-429-words,qwen_q6,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.14394007331500253,0.3972017212996272,False,False
+Experiment-20-qwen2.5_3b-instruct-429-words,qwen_q6,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.5402913746074198,0.8113303764235342,False,False
+Experiment-20-qwen2.5_3b-instruct-429-words,qwen_q8,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.6620128960283778,0.9026842950733281,False,False
+Experiment-20-qwen2.5_3b-instruct-429-words,qwen_q8,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-21-phi3.5_3.8b-429-words,phi_q2,phi_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),4.922734724941476e-89,5.365780850186208e-87,True,True
+Experiment-21-phi3.5_3.8b-429-words,phi_q2,phi_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.2392294127517818e-119,5.403040239597769e-117,True,True
+Experiment-21-phi3.5_3.8b-429-words,phi_q3_l,phi_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.745368179634306,0.9364053836121228,False,False
+Experiment-21-phi3.5_3.8b-429-words,phi_q3_l,phi_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.00684085843582897,0.03277598107715858,True,True
+Experiment-21-phi3.5_3.8b-429-words,phi_q3_m,phi_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.7285763955694411,0.9320737423450656,False,False
+Experiment-21-phi3.5_3.8b-429-words,phi_q3_m,phi_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.18844541724270242,0.459006714624683,False,False
+Experiment-21-phi3.5_3.8b-429-words,phi_q3_s,phi_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.0027352296253720073,0.015487793722885652,True,True
+Experiment-21-phi3.5_3.8b-429-words,phi_q3_s,phi_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.15472892348537437,0.4133729574537939,False,False
+Experiment-21-phi3.5_3.8b-429-words,phi_q4,phi_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.6028086418096739,0.856815868982605,False,False
+Experiment-21-phi3.5_3.8b-429-words,phi_q4,phi_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.8311704095417624,0.9820875299734645,False,False
+Experiment-21-phi3.5_3.8b-429-words,phi_q6,phi_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.7161326774494403,0.9320737423450656,False,False
+Experiment-21-phi3.5_3.8b-429-words,phi_q6,phi_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.5464935954065822,0.8113303764235342,False,False
+Experiment-21-phi3.5_3.8b-429-words,phi_q8,phi_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.9925995856961947,1.0,False,False
+Experiment-21-phi3.5_3.8b-429-words,phi_q8,phi_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-22-GLM4_9b-429-words,glm_q2,glm_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.3948436566868042,0.6813613709741384,False,False
+Experiment-22-GLM4_9b-429-words,glm_q2,glm_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.008332751739180256,0.039065373744974104,True,True
+Experiment-22-GLM4_9b-429-words,glm_q3_l,glm_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.4672311534979714,0.7544917886115391,False,False
+Experiment-22-GLM4_9b-429-words,glm_q3_l,glm_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.18844541724270242,0.459006714624683,False,False
+Experiment-22-GLM4_9b-429-words,glm_q3_m,glm_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.5078174635219641,0.7935785451454349,False,False
+Experiment-22-GLM4_9b-429-words,glm_q3_m,glm_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.6510766340778343,0.8954871055455387,False,False
+Experiment-22-GLM4_9b-429-words,glm_q3_s,glm_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.22553337888502134,0.5119426144557557,False,False
+Experiment-22-GLM4_9b-429-words,glm_q3_s,glm_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.7547764265871045,0.9364053836121228,False,False
+Experiment-22-GLM4_9b-429-words,glm_q4_m,glm_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.8919897095023942,0.997198752161651,False,False
+Experiment-22-GLM4_9b-429-words,glm_q4_m,glm_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.30743416592739237,0.614877250792136,False,False
+Experiment-22-GLM4_9b-429-words,glm_q8,glm_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.06365756479728835,0.2118679255848681,False,False
+Experiment-22-GLM4_9b-429-words,glm_q8,glm_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.7236736098317629,0.9320737423450656,False,False
+Experiment-23-llama3.2_1b-instruct-429-words-unsloth-gguf-BRIDGE-EXPERIMENT,llama3.2_1b_q2,llama3.2_1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),1.0724100735765341e-10,1.3359165487981967e-09,True,True
+Experiment-23-llama3.2_1b-instruct-429-words-unsloth-gguf-BRIDGE-EXPERIMENT,llama3.2_1b_q2,llama3.2_1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",4.6911284209555355e-30,1.2031364656097726e-28,True,True
+Experiment-23-llama3.2_1b-instruct-429-words-unsloth-gguf-BRIDGE-EXPERIMENT,llama3.2_1b_q3,llama3.2_1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.0033576805463913853,0.01829935897783305,True,True
+Experiment-23-llama3.2_1b-instruct-429-words-unsloth-gguf-BRIDGE-EXPERIMENT,llama3.2_1b_q3,llama3.2_1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.013417541070915159,0.05850047906919009,True,False
+Experiment-23-llama3.2_1b-instruct-429-words-unsloth-gguf-BRIDGE-EXPERIMENT,llama3.2_1b_q4,llama3.2_1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.0036532601706103,0.019190619691398684,True,True
+Experiment-23-llama3.2_1b-instruct-429-words-unsloth-gguf-BRIDGE-EXPERIMENT,llama3.2_1b_q4,llama3.2_1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.010381795789701767,0.0476469785716839,True,True
+Experiment-23-llama3.2_1b-instruct-429-words-unsloth-gguf-BRIDGE-EXPERIMENT,llama3.2_1b_q8,llama3.2_1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.03721230075011953,0.13520469272543428,True,False
+Experiment-23-llama3.2_1b-instruct-429-words-unsloth-gguf-BRIDGE-EXPERIMENT,llama3.2_1b_q8,llama3.2_1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-26-qwen2.5_1.5b-instruct-429-words,qwen_q2,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),5.934060948768688e-27,1.124891553766586e-25,True,True
+Experiment-26-qwen2.5_1.5b-instruct-429-words,qwen_q2,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",6.348866997265401e-51,3.954437158296735e-49,True,True
+Experiment-26-qwen2.5_1.5b-instruct-429-words,qwen_q3_L,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.017714734755310584,0.07286438069165485,True,False
+Experiment-26-qwen2.5_1.5b-instruct-429-words,qwen_q3_L,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.027195156956906944,0.10400954765974937,True,False
+Experiment-26-qwen2.5_1.5b-instruct-429-words,qwen_q3_M,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.005511235640800213,0.0273056674930556,True,True
+Experiment-26-qwen2.5_1.5b-instruct-429-words,qwen_q3_M,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.005766206610674033,0.028222172590762446,True,True
+Experiment-26-qwen2.5_1.5b-instruct-429-words,qwen_q3_S,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.02961809584785677,0.11229121556230916,True,False
+Experiment-26-qwen2.5_1.5b-instruct-429-words,qwen_q3_S,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.3122085382271088e-09,1.5055866385974196e-08,True,True
+Experiment-26-qwen2.5_1.5b-instruct-429-words,qwen_q4_M,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.16451319235526385,0.43471364767815174,False,False
+Experiment-26-qwen2.5_1.5b-instruct-429-words,qwen_q4_M,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.2626182904425174,0.5584902171455456,False,False
+Experiment-26-qwen2.5_1.5b-instruct-429-words,qwen_q4_S,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.14723001862084556,0.40002922151868653,False,False
+Experiment-26-qwen2.5_1.5b-instruct-429-words,qwen_q4_S,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.017548950191476703,0.07286438069165485,True,False
+Experiment-26-qwen2.5_1.5b-instruct-429-words,qwen_q8,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.48324405255178093,0.7737159274645897,False,False
+Experiment-26-qwen2.5_1.5b-instruct-429-words,qwen_q8,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-27-qwen2.5_0.5b-instruct-429-words,qwen_q2,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),2.07249668822076e-08,2.3169450155493623e-07,True,True
+Experiment-27-qwen2.5_0.5b-instruct-429-words,qwen_q2,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",5.980517894461354e-07,5.92614954996625e-06,True,True
+Experiment-27-qwen2.5_0.5b-instruct-429-words,qwen_q3_L,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.1088385881891975,0.31848070101000076,False,False
+Experiment-27-qwen2.5_0.5b-instruct-429-words,qwen_q3_L,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.05247949955924649,0.17875829537368335,False,False
+Experiment-27-qwen2.5_0.5b-instruct-429-words,qwen_q3_M,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.8178868410163321,0.9769826374880022,False,False
+Experiment-27-qwen2.5_0.5b-instruct-429-words,qwen_q3_M,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.5247772510996042,0.8084907472771286,False,False
+Experiment-27-qwen2.5_0.5b-instruct-429-words,qwen_q3_S,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),4.962208683104711e-07,5.031448804264312e-06,True,True
+Experiment-27-qwen2.5_0.5b-instruct-429-words,qwen_q3_S,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",2.283480049492476e-07,2.428286101411511e-06,True,True
+Experiment-27-qwen2.5_0.5b-instruct-429-words,qwen_q4_M,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.8739177880747407,0.9927709340287,False,False
+Experiment-27-qwen2.5_0.5b-instruct-429-words,qwen_q4_M,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.03572884112563301,0.13201504009132198,True,False
+Experiment-27-qwen2.5_0.5b-instruct-429-words,qwen_q4_S,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.15548891060188577,0.4133729574537939,False,False
+Experiment-27-qwen2.5_0.5b-instruct-429-words,qwen_q4_S,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.00406929652518767,0.020630387034672373,True,True
+Experiment-27-qwen2.5_0.5b-instruct-429-words,qwen_q8,qwen_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.9446423232864536,1.0,False,False
+Experiment-27-qwen2.5_0.5b-instruct-429-words,qwen_q8,qwen_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.2286442623410733,0.5119426144557557,False,False
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q2_K,qwen3:4b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.26607429382771763,0.5584902171455456,False,False
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q2_K,qwen3:4b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",4.3893718355551064e-05,0.0003544011333892641,True,True
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q2_K_L,qwen3:4b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.26607429382771763,0.5584902171455456,False,False
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q2_K_L,qwen3:4b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",4.3893718355551064e-05,0.0003544011333892641,True,True
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q3_M,qwen3:4b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.48977769996811227,0.7765202806767161,False,False
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q3_M,qwen3:4b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.348736660138805,0.6532584817327063,False,False
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q3_S,qwen3:4b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.9753100344042077,1.0,False,False
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q3_S,qwen3:4b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.014137969455911475,0.06103123448294459,True,False
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q4_M,qwen3:4b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.1314407309948331,0.37213090073861843,False,False
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q4_M,qwen3:4b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.21592493894013678,0.508131725515749,False,False
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q4_S,qwen3:4b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.024964295938089097,0.09718243775898969,True,False
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q4_S,qwen3:4b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.04252247799805162,0.15196557710779102,True,False
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q5,qwen3:4b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.3229269366237788,0.6202473320174782,False,False
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q5,qwen3:4b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.38273308888522595,0.6801169164423471,False,False
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q6,qwen3:4b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.3832862357654938,0.6801169164423471,False,False
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q6,qwen3:4b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.18144920772141646,0.451910134096336,False,False
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q8,qwen3:4b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.1295236074261204,0.3690999531881601,False,False
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q8,qwen3:4b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.34278171114790873,0.6497948959151661,False,False
+Experiment-30-phi4-mini-instruct-3.8b-GGUF-429-words,phi4-mini-4b_q2_K,phi4-mini-4b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),5.323677274962969e-43,2.3211232918838546e-41,True,True
+Experiment-30-phi4-mini-instruct-3.8b-GGUF-429-words,phi4-mini-4b_q2_K,phi4-mini-4b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",5.133433630419793e-33,1.4921180419086865e-31,True,True
+Experiment-30-phi4-mini-instruct-3.8b-GGUF-429-words,phi4-mini-4b_q2_K_L,phi4-mini-4b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),5.323677274962969e-43,2.3211232918838546e-41,True,True
+Experiment-30-phi4-mini-instruct-3.8b-GGUF-429-words,phi4-mini-4b_q2_K_L,phi4-mini-4b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",5.133433630419793e-33,1.4921180419086865e-31,True,True
+Experiment-30-phi4-mini-instruct-3.8b-GGUF-429-words,phi4-mini-4b_q3,phi4-mini-4b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.013034147754996107,0.05798865735896227,True,False
+Experiment-30-phi4-mini-instruct-3.8b-GGUF-429-words,phi4-mini-4b_q3,phi4-mini-4b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.8773705560641434,0.9935936686856274,False,False
+Experiment-30-phi4-mini-instruct-3.8b-GGUF-429-words,phi4-mini-4b_q4,phi4-mini-4b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.3445386054150059,0.6502979738568943,False,False
+Experiment-30-phi4-mini-instruct-3.8b-GGUF-429-words,phi4-mini-4b_q4,phi4-mini-4b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.8676323347781927,0.9927709340287,False,False
+Experiment-30-phi4-mini-instruct-3.8b-GGUF-429-words,phi4-mini-4b_q5,phi4-mini-4b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.26751592643011135,0.5584902171455456,False,False
+Experiment-30-phi4-mini-instruct-3.8b-GGUF-429-words,phi4-mini-4b_q5,phi4-mini-4b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.6625205835400574,0.9026842950733281,False,False
+Experiment-30-phi4-mini-instruct-3.8b-GGUF-429-words,phi4-mini-4b_q6,phi4-mini-4b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.2732065321840379,0.5672288001535263,False,False
+Experiment-30-phi4-mini-instruct-3.8b-GGUF-429-words,phi4-mini-4b_q6,phi4-mini-4b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.6625205835400574,0.9026842950733281,False,False
+Experiment-30-phi4-mini-instruct-3.8b-GGUF-429-words,phi4-mini-4b_q8,phi4-mini-4b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.18733412905535063,0.459006714624683,False,False
+Experiment-30-phi4-mini-instruct-3.8b-GGUF-429-words,phi4-mini-4b_q8,phi4-mini-4b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.5049850750938457,0.7935785451454349,False,False
+Experiment-31-gemma3n_e4b-429-words,gemma-3n-e4b_q2_K,gemma-3n-e4b_q16,rare,A,Wilcoxon signed-rank (per-word fractions),0.0012968957989590631,0.007745843402002076,True,True
+Experiment-31-gemma3n_e4b-429-words,gemma-3n-e4b_q2_K,gemma-3n-e4b_q16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.3413164157049882e-05,0.0001146694033818382,True,True
+Experiment-31-gemma3n_e4b-429-words,gemma-3n-e4b_q2_K_L,gemma-3n-e4b_q16,rare,A,Wilcoxon signed-rank (per-word fractions),0.0012968957989590631,0.007745843402002076,True,True
+Experiment-31-gemma3n_e4b-429-words,gemma-3n-e4b_q2_K_L,gemma-3n-e4b_q16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.3413164157049882e-05,0.0001146694033818382,True,True
+Experiment-31-gemma3n_e4b-429-words,gemma-3n-e4b_q3_M,gemma-3n-e4b_q16,rare,A,Wilcoxon signed-rank (per-word fractions),1.0,1.0,False,False
+Experiment-31-gemma3n_e4b-429-words,gemma-3n-e4b_q3_M,gemma-3n-e4b_q16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.7547764265871045,0.9364053836121228,False,False
+Experiment-31-gemma3n_e4b-429-words,gemma-3n-e4b_q3_S,gemma-3n-e4b_q16,rare,A,Wilcoxon signed-rank (per-word fractions),0.31731050786291415,0.614877250792136,False,False
+Experiment-31-gemma3n_e4b-429-words,gemma-3n-e4b_q3_S,gemma-3n-e4b_q16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.010381795789701767,0.0476469785716839,True,True
+Experiment-31-gemma3n_e4b-429-words,gemma-3n-e4b_q4_M,gemma-3n-e4b_q16,rare,A,Wilcoxon signed-rank (per-word fractions),0.31731050786291415,0.614877250792136,False,False
+Experiment-31-gemma3n_e4b-429-words,gemma-3n-e4b_q4_M,gemma-3n-e4b_q16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-31-gemma3n_e4b-429-words,gemma-3n-e4b_q4_S,gemma-3n-e4b_q16,rare,A,Wilcoxon signed-rank (per-word fractions),0.31731050786291415,0.614877250792136,False,False
+Experiment-31-gemma3n_e4b-429-words,gemma-3n-e4b_q4_S,gemma-3n-e4b_q16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-31-gemma3n_e4b-429-words,gemma-3n-e4b_q5,gemma-3n-e4b_q16,rare,A,Wilcoxon signed-rank (per-word fractions),0.31731050786291415,0.614877250792136,False,False
+Experiment-31-gemma3n_e4b-429-words,gemma-3n-e4b_q5,gemma-3n-e4b_q16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.11752486809663953,0.33934332774923737,False,False
+Experiment-32-ministral3-14b-instruct2512-gguf-429-words,ministral3-14b_q2_K,ministral3-14b_q6,rare,A,Wilcoxon signed-rank (per-word fractions),0.12194527615639712,0.3497903973959812,False,False
+Experiment-32-ministral3-14b-instruct2512-gguf-429-words,ministral3-14b_q2_K,ministral3-14b_q6,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.08897301170181328,0.27687984943067606,False,False
+Experiment-32-ministral3-14b-instruct2512-gguf-429-words,ministral3-14b_q2_K_L,ministral3-14b_q6,rare,A,Wilcoxon signed-rank (per-word fractions),0.24003017966396656,0.5206624792710917,False,False
+Experiment-32-ministral3-14b-instruct2512-gguf-429-words,ministral3-14b_q2_K_L,ministral3-14b_q6,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.04550026389635857,0.15823467254856982,True,False
+Experiment-32-ministral3-14b-instruct2512-gguf-429-words,ministral3-14b_q3_M,ministral3-14b_q6,rare,A,Wilcoxon signed-rank (per-word fractions),0.02065481242618119,0.08338424275754627,True,False
+Experiment-32-ministral3-14b-instruct2512-gguf-429-words,ministral3-14b_q3_M,ministral3-14b_q6,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.09896015401940522,0.29962935522542133,False,False
+Experiment-32-ministral3-14b-instruct2512-gguf-429-words,ministral3-14b_q3_S,ministral3-14b_q6,rare,A,Wilcoxon signed-rank (per-word fractions),0.22881565695993078,0.5119426144557557,False,False
+Experiment-32-ministral3-14b-instruct2512-gguf-429-words,ministral3-14b_q3_S,ministral3-14b_q6,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.2864220227778557,0.5862910888786155,False,False
+Experiment-33-granite4-h_350m-GGUF-429-words,granite4-h-350m_q3_M,granite4-h-350m_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.6987977538869712,0.923260062711271,False,False
+Experiment-33-granite4-h_350m-GGUF-429-words,granite4-h-350m_q3_M,granite4-h-350m_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",4.755848736231077e-22,8.294200195986998e-21,True,True
+Experiment-33-granite4-h_350m-GGUF-429-words,granite4-h-350m_q3_S,granite4-h-350m_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.5233956497983114,0.8084907472771286,False,False
+Experiment-33-granite4-h_350m-GGUF-429-words,granite4-h-350m_q3_S,granite4-h-350m_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",5.6936371260294e-30,1.379125437193788e-28,True,True
+Experiment-33-granite4-h_350m-GGUF-429-words,granite4-h-350m_q4_M,granite4-h-350m_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.0012076630752545646,0.00763103044653609,True,True
+Experiment-33-granite4-h_350m-GGUF-429-words,granite4-h-350m_q4_M,granite4-h-350m_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.0010266104684135235,0.00658238476806318,True,True
+Experiment-33-granite4-h_350m-GGUF-429-words,granite4-h-350m_q4_S,granite4-h-350m_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),1.5733590761494999e-06,1.4595416110663445e-05,True,True
+Experiment-33-granite4-h_350m-GGUF-429-words,granite4-h-350m_q4_S,granite4-h-350m_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.2239351211219087e-06,1.1600776365416351e-05,True,True
+Experiment-33-granite4-h_350m-GGUF-429-words,granite4-h-350m_q5_M,granite4-h-350m_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.43768514844583495,0.7255921092105857,False,False
+Experiment-33-granite4-h_350m-GGUF-429-words,granite4-h-350m_q5_M,granite4-h-350m_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.3491037299167903,0.6532584817327063,False,False
+Experiment-33-granite4-h_350m-GGUF-429-words,granite4-h-350m_q5_S,granite4-h-350m_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.03363345216205673,0.12641538916083392,True,False
+Experiment-33-granite4-h_350m-GGUF-429-words,granite4-h-350m_q5_S,granite4-h-350m_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.3143046604738511,0.614877250792136,False,False
+Experiment-33-granite4-h_350m-GGUF-429-words,granite4-h-350m_q6,granite4-h-350m_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.4822145279783445,0.7737159274645897,False,False
+Experiment-33-granite4-h_350m-GGUF-429-words,granite4-h-350m_q6,granite4-h-350m_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.025573669368214657,0.09867362694284593,True,False
+Experiment-33-granite4-h_350m-GGUF-429-words,granite4-h-350m_q8,granite4-h-350m_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.7247958221581363,0.9320737423450656,False,False
+Experiment-33-granite4-h_350m-GGUF-429-words,granite4-h-350m_q8,granite4-h-350m_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.48623432138829725,0.7737159274645897,False,False
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q2,granite4-h_1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.045728368672293115,0.15823467254856982,True,False
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q2,granite4-h_1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.2325048558857824e-28,2.6868605858310056e-27,True,True
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q2_L,granite4-h_1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.7616118100150658,0.9406876746928292,False,False
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q2_L,granite4-h_1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",9.544386810625187e-30,2.1901856049645165e-28,True,True
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q3_M,granite4-h_1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.17113273708092402,0.43890513745460513,False,False
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q3_M,granite4-h_1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.18242243945173198,0.451910134096336,False,False
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q3_S,granite4-h_1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.44640711886929685,0.728964433809039,False,False
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q3_S,granite4-h_1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.06047206488395539,0.20281400222618884,False,False
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q4_M,granite4-h_1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.10806114610572405,0.3183422952844303,False,False
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q4_M,granite4-h_1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.13603712811414423,0.3802063324215826,False,False
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q4_S,granite4-h_1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.016811497456552145,0.07116323195200713,True,False
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q4_S,granite4-h_1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.7655944839957641,0.9429355791586247,False,False
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q5_M,granite4-h_1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.8734671626062556,0.9927709340287,False,False
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q5_M,granite4-h_1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.40465676192728617,0.6858178941447759,False,False
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q5_S,granite4-h_1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.9665340544489633,1.0,False,False
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q5_S,granite4-h_1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.8711314915971582,0.9927709340287,False,False
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q6,granite4-h_1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.41985627619361077,0.7067850827043023,False,False
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q6,granite4-h_1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.5562984612747348,0.8113303764235342,False,False
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q8,granite4-h_1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.7786637003972129,0.9466112935774148,False,False
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q8,granite4-h_1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q2,granite4-h_3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.08038175692468497,0.2536189992039052,False,False
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q2,granite4-h_3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.0014727828467661257,0.008677477313378795,True,True
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q2_L,granite4-h_3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.23627012870417685,0.5202715965405107,False,False
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q2_L,granite4-h_3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.0035971532078372627,0.019126326812403005,True,True
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q3_M,granite4-h_3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.5507625778024483,0.8113303764235342,False,False
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q3_M,granite4-h_3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.016209541409225422,0.0692878436708067,True,False
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q3_S,granite4-h_3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.07366640928700673,0.23791521814174027,False,False
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q3_S,granite4-h_3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.011117560716106999,0.05049225491898595,True,False
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q4_M,granite4-h_3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.0009579356700885607,0.006233730629233022,True,True
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q4_M,granite4-h_3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.2962698714842834,0.6007884549811813,False,False
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q4_S,granite4-h_3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.13476471332649345,0.37908009684097516,False,False
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q4_S,granite4-h_3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.7423083940717163,0.9364053836121228,False,False
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q5_M,granite4-h_3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.9392628307667393,1.0,False,False
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q5_M,granite4-h_3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.5790997419539188,0.8305509456970677,False,False
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q5_S,granite4-h_3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.528577726036397,0.8101847188766004,False,False
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q5_S,granite4-h_3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.23013934044341314,0.5119426144557557,False,False
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q6,granite4-h_3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.8915638508162848,0.997198752161651,False,False
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q6,granite4-h_3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.7728299926844475,0.9464996539618514,False,False
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q8,granite4-h_3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.9380979142555702,1.0,False,False
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q8,granite4-h_3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q2,ministral3-3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.00032784970477302673,0.0021991149427852256,True,True
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q2,ministral3-3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.2224692106646854,0.5119426144557557,False,False
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q2_L,ministral3-3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.00032784970477302673,0.0021991149427852256,True,True
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q2_L,ministral3-3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.2224692106646854,0.5119426144557557,False,False
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q3_M,ministral3-3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.9524456242038497,1.0,False,False
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q3_M,ministral3-3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q3_S,ministral3-3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.0016145120772985669,0.009385696876029002,True,True
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q3_S,ministral3-3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.08005278235757977,0.2536189992039052,False,False
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q4_M,ministral3-3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.6873872119857606,0.9191464318579334,False,False
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q4_M,ministral3-3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.4414183267820536,0.7262580772716052,False,False
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q4_S,ministral3-3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.3722521385720087,0.6706691422206437,False,False
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q4_S,ministral3-3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.8501067391385259,0.9883907687050594,False,False
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q5_M,ministral3-3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.3942546715690738,0.6813613709741384,False,False
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q5_M,ministral3-3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.6276258050283593,0.8770668301037328,False,False
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q5_S,ministral3-3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.7244124897573696,0.9320737423450656,False,False
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q5_S,ministral3-3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.8311704095417624,0.9820875299734645,False,False
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q6,ministral3-3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.9016458294016064,1.0,False,False
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q6,ministral3-3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q8,ministral3-3b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.5551043516804024,0.8113303764235342,False,False
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q8,ministral3-3b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.7728299926844475,0.9464996539618514,False,False
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q2,LFM2-700M_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),1.0211633331345955e-10,1.3094918036667164e-09,True,True
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q2,LFM2-700M_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.1139676516814215e-20,1.7988514671596288e-19,True,True
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q2_L,LFM2-700M_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),1.0211633331345955e-10,1.3094918036667164e-09,True,True
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q2_L,LFM2-700M_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.1139676516814215e-20,1.7988514671596288e-19,True,True
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q3_M,LFM2-700M_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.36522287628476524,0.664377338244749,False,False
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q3_M,LFM2-700M_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.013316405019712346,0.05850047906919009,True,False
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q3_S,LFM2-700M_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.08955340908586393,0.27687984943067606,False,False
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q3_S,LFM2-700M_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.04760395472787142,0.16342775008938537,True,False
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q4_M,LFM2-700M_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.8468947700003542,0.9883907687050594,False,False
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q4_M,LFM2-700M_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.22910188406505527,0.5119426144557557,False,False
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q4_S,LFM2-700M_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.8879587621277871,0.997198752161651,False,False
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q4_S,LFM2-700M_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.1775298524121496,0.45001753285870477,False,False
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q5_M,LFM2-700M_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.3985026366935901,0.6813613709741384,False,False
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q5_M,LFM2-700M_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.6352562959972483,0.8820756211936314,False,False
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q5_S,LFM2-700M_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.6712979155980261,0.9089623950333521,False,False
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q5_S,LFM2-700M_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.882783191152826,0.9971333454472335,False,False
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q6,LFM2-700M_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.7753560314995769,0.9466112935774148,False,False
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q6,LFM2-700M_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q8,LFM2-700M_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.6063950166097538,0.856815868982605,False,False
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q8,LFM2-700M_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.22779999398822554,0.5119426144557557,False,False
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q2,LFM2-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.06463659387659405,0.21189139045259403,False,False
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q2,LFM2-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",6.036365910006842e-15,8.48985657020317e-14,True,True
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q2_L,LFM2-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.06463659387659405,0.21189139045259403,False,False
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q2_L,LFM2-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",6.036365910006842e-15,8.48985657020317e-14,True,True
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q3_M,LFM2-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.04551930539022973,0.15823467254856982,True,False
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q3_M,LFM2-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q3_S,LFM2-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.6913379741370478,0.9191464318579334,False,False
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q3_S,LFM2-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.16585666034290605,0.4351450759472524,False,False
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q4_M,LFM2-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.5560253426632753,0.8113303764235342,False,False
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q4_M,LFM2-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.37109336952269756,0.6706691422206437,False,False
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q4_S,LFM2-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.32069364491410646,0.6186833149670372,False,False
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q4_S,LFM2-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.779434528427275,0.9466112935774148,False,False
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q5_M,LFM2-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.2885024384862087,0.5877900148597524,False,False
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q5_M,LFM2-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.8711314915971582,0.9927709340287,False,False
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q5_S,LFM2-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.7525212823340267,0.9364053836121228,False,False
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q5_S,LFM2-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.5218393903336151,0.8084907472771286,False,False
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q6,LFM2-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.7559970069529065,0.9364053836121228,False,False
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q6,LFM2-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q8,LFM2-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.1899831540084771,0.46018141748720004,False,False
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q8,LFM2-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.5464935954065822,0.8113303764235342,False,False
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q2,LFM2.5-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),7.902606588317512e-05,0.0005915458913116247,True,True
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q2,LFM2.5-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",2.196481801807407e-27,4.353027570854679e-26,True,True
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q2_L,LFM2.5-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),7.902606588317512e-05,0.0005915458913116247,True,True
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q2_L,LFM2.5-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",2.196481801807407e-27,4.353027570854679e-26,True,True
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q3_M,LFM2.5-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.5603912442033844,0.8117295098759986,False,False
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q3_M,LFM2.5-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",8.365294421002608e-07,8.105040816793638e-06,True,True
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q3_S,LFM2.5-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.023028491053422428,0.0904542531467764,True,False
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q3_S,LFM2.5-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",4.946457937460951e-10,5.9907101687027074e-09,True,True
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q4_M,LFM2.5-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.3098957755973025,0.614877250792136,False,False
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q4_M,LFM2.5-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.20771208572755318,0.49759598558909196,False,False
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q4_S,LFM2.5-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.9015639971209232,1.0,False,False
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q4_S,LFM2.5-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.021185407615737752,0.08397125200419692,True,False
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q5_M,LFM2.5-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.7289842801368518,0.9320737423450656,False,False
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q5_M,LFM2.5-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.5509849875850935,0.8113303764235342,False,False
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q5_S,LFM2.5-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.5314906094832389,0.8101847188766004,False,False
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q5_S,LFM2.5-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.7547764265871045,0.9364053836121228,False,False
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q6,LFM2.5-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.8170846814012418,0.9769826374880022,False,False
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q6,LFM2.5-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.5707503880581739,0.8212777861167123,False,False
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q8,LFM2.5-1.2b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.389197388647626,0.6813613709741384,False,False
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q8,LFM2.5-1.2b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-40-granite4-h_7b-GGUF-429-words,granite4-h_7b_q2,granite4-h_7b_q8,rare,A,Wilcoxon signed-rank (per-word fractions),0.0012788544458248818,0.007745843402002076,True,True
+Experiment-40-granite4-h_7b-GGUF-429-words,granite4-h_7b_q2,granite4-h_7b_q8,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.5827019821339483,0.8329772597062344,False,False
+Experiment-40-granite4-h_7b-GGUF-429-words,granite4-h_7b_q2_L,granite4-h_7b_q8,rare,A,Wilcoxon signed-rank (per-word fractions),0.00036783677544054296,0.002429952031698132,True,True
+Experiment-40-granite4-h_7b-GGUF-429-words,granite4-h_7b_q2_L,granite4-h_7b_q8,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.2976383171466403,0.6007884549811813,False,False
+Experiment-40-granite4-h_7b-GGUF-429-words,granite4-h_7b_q3_M,granite4-h_7b_q8,rare,A,Wilcoxon signed-rank (per-word fractions),0.3550876400135352,0.6588008980676653,False,False
+Experiment-40-granite4-h_7b-GGUF-429-words,granite4-h_7b_q3_M,granite4-h_7b_q8,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.6352562959972483,0.8820756211936314,False,False
+Experiment-40-granite4-h_7b-GGUF-429-words,granite4-h_7b_q3_S,granite4-h_7b_q8,rare,A,Wilcoxon signed-rank (per-word fractions),0.3980433387157142,0.6813613709741384,False,False
+Experiment-40-granite4-h_7b-GGUF-429-words,granite4-h_7b_q3_S,granite4-h_7b_q8,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.8743670611628918,0.9927709340287,False,False
+Experiment-40-granite4-h_7b-GGUF-429-words,granite4-h_7b_q4_M,granite4-h_7b_q8,rare,A,Wilcoxon signed-rank (per-word fractions),0.21677179116038836,0.508131725515749,False,False
+Experiment-40-granite4-h_7b-GGUF-429-words,granite4-h_7b_q4_M,granite4-h_7b_q8,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-40-granite4-h_7b-GGUF-429-words,granite4-h_7b_q4_S,granite4-h_7b_q8,rare,A,Wilcoxon signed-rank (per-word fractions),0.8168753810748752,0.9769826374880022,False,False
+Experiment-40-granite4-h_7b-GGUF-429-words,granite4-h_7b_q4_S,granite4-h_7b_q8,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.48623432138829725,0.7737159274645897,False,False
+Experiment-40-granite4-h_7b-GGUF-429-words,granite4-h_7b_q5_M,granite4-h_7b_q8,rare,A,Wilcoxon signed-rank (per-word fractions),0.38685549375619743,0.6801169164423471,False,False
+Experiment-40-granite4-h_7b-GGUF-429-words,granite4-h_7b_q5_M,granite4-h_7b_q8,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.2864220227778557,0.5862910888786155,False,False
+Experiment-40-granite4-h_7b-GGUF-429-words,granite4-h_7b_q5_S,granite4-h_7b_q8,rare,A,Wilcoxon signed-rank (per-word fractions),0.5563939966757724,0.8113303764235342,False,False
+Experiment-40-granite4-h_7b-GGUF-429-words,granite4-h_7b_q5_S,granite4-h_7b_q8,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-40-granite4-h_7b-GGUF-429-words,granite4-h_7b_q6,granite4-h_7b_q8,rare,A,Wilcoxon signed-rank (per-word fractions),0.16805524212789746,0.4351450759472524,False,False
+Experiment-40-granite4-h_7b-GGUF-429-words,granite4-h_7b_q6,granite4-h_7b_q8,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.16866861888781112,0.4351450759472524,False,False
+Experiment-41-LFM2_8b--GGUF-429-words,LFM2-8b-a1b_q2,LFM2-8b-a1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.00018932617690007737,0.0013313905343295762,True,True
+Experiment-41-LFM2_8b--GGUF-429-words,LFM2-8b-a1b_q2,LFM2-8b-a1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",8.004864125547215e-05,0.0005915458913116247,True,True
+Experiment-41-LFM2_8b--GGUF-429-words,LFM2-8b-a1b_q2_L,LFM2-8b-a1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.00018932617690007737,0.0013313905343295762,True,True
+Experiment-41-LFM2_8b--GGUF-429-words,LFM2-8b-a1b_q2_L,LFM2-8b-a1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",8.004864125547215e-05,0.0005915458913116247,True,True
+Experiment-41-LFM2_8b--GGUF-429-words,LFM2-8b-a1b_q3_M,LFM2-8b-a1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.231837869639554,0.5131031023494698,False,False
+Experiment-41-LFM2_8b--GGUF-429-words,LFM2-8b-a1b_q3_M,LFM2-8b-a1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.21592493894013678,0.508131725515749,False,False
+Experiment-41-LFM2_8b--GGUF-429-words,LFM2-8b-a1b_q3_S,LFM2-8b-a1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.003933226384667177,0.020175137690763404,True,True
+Experiment-41-LFM2_8b--GGUF-429-words,LFM2-8b-a1b_q3_S,LFM2-8b-a1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.0035307619178311742,0.01900508884165916,True,True
+Experiment-41-LFM2_8b--GGUF-429-words,LFM2-8b-a1b_q4_M,LFM2-8b-a1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.6800432464194683,0.9179531128138952,False,False
+Experiment-41-LFM2_8b--GGUF-429-words,LFM2-8b-a1b_q4_M,LFM2-8b-a1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.4414183267820536,0.7262580772716052,False,False
+Experiment-41-LFM2_8b--GGUF-429-words,LFM2-8b-a1b_q4_S,LFM2-8b-a1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.0368017272241676,0.13483658041795862,True,False
+Experiment-41-LFM2_8b--GGUF-429-words,LFM2-8b-a1b_q4_S,LFM2-8b-a1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.21592493894013678,0.508131725515749,False,False
+Experiment-41-LFM2_8b--GGUF-429-words,LFM2-8b-a1b_q5_M,LFM2-8b-a1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.6985328765319015,0.923260062711271,False,False
+Experiment-41-LFM2_8b--GGUF-429-words,LFM2-8b-a1b_q5_M,LFM2-8b-a1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.4042484947394712,0.6858178941447759,False,False
+Experiment-41-LFM2_8b--GGUF-429-words,LFM2-8b-a1b_q5_S,LFM2-8b-a1b_fp16,rare,A,Wilcoxon signed-rank (per-word fractions),0.5654168321552968,0.8162971484096339,False,False
+Experiment-41-LFM2_8b--GGUF-429-words,LFM2-8b-a1b_q5_S,LFM2-8b-a1b_fp16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.3587953578869416,0.6598551014970457,False,False
+Experiment-42-ministral3-8b-instruct2512-gguf-429-words,ministral3-8b_q2_K,ministral3-8b_bf16,rare,A,Wilcoxon signed-rank (per-word fractions),0.001261656838886624,0.007745843402002076,True,True
+Experiment-42-ministral3-8b-instruct2512-gguf-429-words,ministral3-8b_q2_K,ministral3-8b_bf16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.3911725228101395,0.6813613709741384,False,False
+Experiment-42-ministral3-8b-instruct2512-gguf-429-words,ministral3-8b_q2_K_L,ministral3-8b_bf16,rare,A,Wilcoxon signed-rank (per-word fractions),0.007560464412551267,0.03583002699861252,True,True
+Experiment-42-ministral3-8b-instruct2512-gguf-429-words,ministral3-8b_q2_K_L,ministral3-8b_bf16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.7353166906373405,0.9364053836121228,False,False
+Experiment-42-ministral3-8b-instruct2512-gguf-429-words,ministral3-8b_q3_M,ministral3-8b_bf16,rare,A,Wilcoxon signed-rank (per-word fractions),0.6914679579114729,0.9191464318579334,False,False
+Experiment-42-ministral3-8b-instruct2512-gguf-429-words,ministral3-8b_q3_M,ministral3-8b_bf16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.8445192674729399,0.9883907687050594,False,False
+Experiment-42-ministral3-8b-instruct2512-gguf-429-words,ministral3-8b_q3_S,ministral3-8b_bf16,rare,A,Wilcoxon signed-rank (per-word fractions),0.38401653726437235,0.6801169164423471,False,False
+Experiment-42-ministral3-8b-instruct2512-gguf-429-words,ministral3-8b_q3_S,ministral3-8b_bf16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.7547764265871045,0.9364053836121228,False,False
+Experiment-42-ministral3-8b-instruct2512-gguf-429-words,ministral3-8b_q4_M,ministral3-8b_bf16,rare,A,Wilcoxon signed-rank (per-word fractions),0.2672827308145914,0.5584902171455456,False,False
+Experiment-42-ministral3-8b-instruct2512-gguf-429-words,ministral3-8b_q4_M,ministral3-8b_bf16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-42-ministral3-8b-instruct2512-gguf-429-words,ministral3-8b_q4_S,ministral3-8b_bf16,rare,A,Wilcoxon signed-rank (per-word fractions),0.26771664078765833,0.5584902171455456,False,False
+Experiment-42-ministral3-8b-instruct2512-gguf-429-words,ministral3-8b_q4_S,ministral3-8b_bf16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",1.0,1.0,False,False
+Experiment-42-ministral3-8b-instruct2512-gguf-429-words,ministral3-8b_q6,ministral3-8b_bf16,rare,A,Wilcoxon signed-rank (per-word fractions),0.31371321705926525,0.614877250792136,False,False
+Experiment-42-ministral3-8b-instruct2512-gguf-429-words,ministral3-8b_q6,ministral3-8b_bf16,rare,B,"McNemar (word-paired, Tier-2; cc chi2, exact where a cell is 0)",0.7236736098317629,0.9320737423450656,False,False
+Experiment-43-phi3.5_3.8b-common_words,phi_q2,phi_fp16,common,A,Wilcoxon signed-rank (per-word fractions),1.215649554118318e-20,1.892940019984238e-19,True,True
+Experiment-43-phi3.5_3.8b-common_words,phi_q2,phi_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",1.0339757656912846e-25,1.8783893076725e-24,True,True
+Experiment-43-phi3.5_3.8b-common_words,phi_q3_l,phi_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.6653806646996335,0.9037569152929602,False,False
+Experiment-43-phi3.5_3.8b-common_words,phi_q3_l,phi_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",0.266845703125,0.5584902171455456,False,False
+Experiment-43-phi3.5_3.8b-common_words,phi_q3_m,phi_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.8258171899982962,0.981079822450292,False,False
+Experiment-43-phi3.5_3.8b-common_words,phi_q3_m,phi_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",0.803619384765625,0.967895170601692,False,False
+Experiment-43-phi3.5_3.8b-common_words,phi_q3_s,phi_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.9280450629474928,1.0,False,False
+Experiment-43-phi3.5_3.8b-common_words,phi_q3_s,phi_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",0.4239501953125,0.710931865985577,False,False
+Experiment-43-phi3.5_3.8b-common_words,phi_q4,phi_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.40582801992970685,0.6858178941447759,False,False
+Experiment-43-phi3.5_3.8b-common_words,phi_q4,phi_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",0.75390625,0.9364053836121228,False,False
+Experiment-43-phi3.5_3.8b-common_words,phi_q6,phi_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.1480711734748595,0.40002922151868653,False,False
+Experiment-43-phi3.5_3.8b-common_words,phi_q6,phi_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",0.5078125,0.7935785451454349,False,False
+Experiment-43-phi3.5_3.8b-common_words,phi_q8,phi_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.5592222523242978,0.8117295098759986,False,False
+Experiment-43-phi3.5_3.8b-common_words,phi_q8,phi_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",1.0,1.0,False,False
+Experiment-44-gemma2_9b-instruct-common_words,gemma2_9b_q2,gemma2_9b_fp16,common,A,Wilcoxon signed-rank (per-word fractions),1.0,1.0,False,False
+Experiment-44-gemma2_9b-instruct-common_words,gemma2_9b_q2,gemma2_9b_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",0.6072387695312499,0.856815868982605,False,False
+Experiment-44-gemma2_9b-instruct-common_words,gemma2_9b_q3,gemma2_9b_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.36571229628151325,0.664377338244749,False,False
+Experiment-44-gemma2_9b-instruct-common_words,gemma2_9b_q3,gemma2_9b_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",1.0,1.0,False,False
+Experiment-44-gemma2_9b-instruct-common_words,gemma2_9b_q4,gemma2_9b_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.7054569861112734,0.9264435118810699,False,False
+Experiment-44-gemma2_9b-instruct-common_words,gemma2_9b_q4,gemma2_9b_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",1.0,1.0,False,False
+Experiment-44-gemma2_9b-instruct-common_words,gemma2_9b_q8,gemma2_9b_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.7054569861112734,0.9264435118810699,False,False
+Experiment-44-gemma2_9b-instruct-common_words,gemma2_9b_q8,gemma2_9b_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",1.0,1.0,False,False
+Experiment-45-llama3.2_3b-instruct-common_words,llama_q2,llama_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.0028599382084640934,0.01598632126782493,True,True
+Experiment-45-llama3.2_3b-instruct-common_words,llama_q2,llama_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",0.548828125,0.8113303764235342,False,False
+Experiment-45-llama3.2_3b-instruct-common_words,llama_q4,llama_fp16,common,A,Wilcoxon signed-rank (per-word fractions),1.0,1.0,False,False
+Experiment-45-llama3.2_3b-instruct-common_words,llama_q4,llama_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",0.453125,0.7344330855018587,False,False
+Experiment-45-llama3.2_3b-instruct-common_words,llama_q6,llama_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.17971249487899976,0.451910134096336,False,False
+Experiment-45-llama3.2_3b-instruct-common_words,llama_q6,llama_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",1.0,1.0,False,False
+Experiment-45-llama3.2_3b-instruct-common_words,llama_q8,llama_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.31731050786291415,0.614877250792136,False,False
+Experiment-45-llama3.2_3b-instruct-common_words,llama_q8,llama_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",1.0,1.0,False,False
+Experiment-46-granite4-h_1b-gguf-common_words,granite4-h_1b_q4_M,granite4-h_1b_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.4330157782534765,0.7205911424370831,False,False
+Experiment-46-granite4-h_1b-gguf-common_words,granite4-h_1b_q4_M,granite4-h_1b_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",1.0,1.0,False,False
+Experiment-46-granite4-h_1b-gguf-common_words,granite4-h_1b_q2,granite4-h_1b_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.2651036510063485,0.5584902171455456,False,False
+Experiment-46-granite4-h_1b-gguf-common_words,granite4-h_1b_q2,granite4-h_1b_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",0.07551869750022888,0.2421040596330867,False,False
+Experiment-47-LFM2.5-instruct_1.2b-gguf-common_words,LFM2.5-1.2b_q4_M,LFM2.5-1.2b_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.3975432882487796,0.6813613709741384,False,False
+Experiment-47-LFM2.5-instruct_1.2b-gguf-common_words,LFM2.5-1.2b_q4_M,LFM2.5-1.2b_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",1.0,1.0,False,False
+Experiment-47-LFM2.5-instruct_1.2b-gguf-common_words,LFM2.5-1.2b_q2,LFM2.5-1.2b_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.8862226890317271,0.997198752161651,False,False
+Experiment-47-LFM2.5-instruct_1.2b-gguf-common_words,LFM2.5-1.2b_q2,LFM2.5-1.2b_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",0.32693958282470703,0.6228030985235209,False,False
+Experiment-59-llama3.2_1b-instruct-common_words,llama3.2_1b_q2,llama3.2_1b_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.8616296053304067,0.9927709340287,False,False
+Experiment-59-llama3.2_1b-instruct-common_words,llama3.2_1b_q2,llama3.2_1b_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",3.8558151572942734e-05,0.0003232952708808275,True,True
+Experiment-60-qwen2.5_1.5b-instruct-common_words,qwen_q2,qwen_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.533309665866019,0.8101847188766004,False,False
+Experiment-60-qwen2.5_1.5b-instruct-common_words,qwen_q2,qwen_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",2.4299079086631536e-06,2.207166350369031e-05,True,True
+Experiment-61-qwen2.5_0.5b-instruct-common_words,qwen_q2,qwen_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.06910384135429956,0.22484533455578068,False,False
+Experiment-61-qwen2.5_0.5b-instruct-common_words,qwen_q2,qwen_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",0.5234670639038086,0.8084907472771286,False,False
+Experiment-62-LFM2_700m-gguf-common_words,LFM2-700M_q2,LFM2-700M_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.8014288108528694,0.967895170601692,False,False
+Experiment-62-LFM2_700m-gguf-common_words,LFM2-700M_q2,LFM2-700M_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",0.6476058959960938,0.8954871055455387,False,False
+Experiment-63-LFM2_1.2b-gguf-common_words,LFM2-1.2b_q2,LFM2-1.2b_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.10519727076452612,0.3120136738321999,False,False
+Experiment-63-LFM2_1.2b-gguf-common_words,LFM2-1.2b_q2,LFM2-1.2b_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",0.043285250663757324,0.15343389666177396,True,False
+Experiment-64-granite4-h_350m-gguf-common_words,granite4-h-350m_q3_M,granite4-h-350m_fp16,common,A,Wilcoxon signed-rank (per-word fractions),0.00012235254995320146,0.0008890951963265972,True,True
+Experiment-64-granite4-h_350m-gguf-common_words,granite4-h-350m_q3_M,granite4-h-350m_fp16,common,B,"McNemar (word-paired, Tier-2; exact)",0.8238029479980469,0.981079822450292,False,False

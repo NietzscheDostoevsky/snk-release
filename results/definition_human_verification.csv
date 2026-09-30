@@ -1,0 +1,66 @@
+config,model,word,output,stratum,level,t2,human_verdict
+Experiment-16-llama3.2_1b-instruct-429-words,llama3.2_1b_fp16,imbroglio,"An imbroglio is a complex or tangled situation, often involving conflicting interests, emotions, or relationships that are difficult to untangle or resolve.",II/IIb,base,0,1
+Experiment-16-llama3.2_1b-instruct-429-words,llama3.2_1b_fp16,laggard,"Lagard is a rare or obsolete English word that refers to a person who is idle, lazy, or lacking energy, often used in a somewhat derogatory manner.",II/IIb,base,0,1
+Experiment-16-llama3.2_1b-instruct-429-words,llama3.2_1b_fp16,prevaricate,"Prevaricate means to speak or act in a way that is intentionally misleading, deceptive, or evasive, often by changing the subject or providing false information.",II/IIb,base,1,1
+Experiment-26-qwen2.5_1.5b-instruct-429-words,qwen_fp16,aver,"""Average"" is defined as the result obtained by summing all numbers and then dividing by the count of those numbers.",II/IIb,base,0,0
+Experiment-27-qwen2.5_0.5b-instruct-429-words,qwen_fp16,fastidious,"The English word ""fastidious"" means extremely cautious or meticulous about cleanliness, detail, and order. It refers to someone who is very concerned with their appearance, hygiene, and personal hygiene.",II/IIb,base,1,1
+Experiment-27-qwen2.5_0.5b-instruct-429-words,qwen_fp16,phlegmatic,"A phlegmatic person is someone who exhibits a neutral or slightly apathetic attitude, often characterized by a lack of enthusiasm and a tendency to be easily distracted.",II/IIb,base,0,0
+Experiment-27-qwen2.5_0.5b-instruct-429-words,qwen_fp16,unctuous,"The term ""unctuous"" is characterized by being somewhat unassuming or lacking in self-confidence, often implying someone who is reserved and not easily approachable.",II/IIb,base,0,0
+Experiment-30-phi4-mini-instruct-3.8b-GGUF-429-words,phi4-mini-4b_fp16,facetiousness,"Facetiousness refers to a lack of seriousness or an inappropriate use of humor, often characterized by flippant remarks that are not meant seriously and can be seen as disrespectful or offensive.",II/IIb,base,1,1
+Experiment-30-phi4-mini-instruct-3.8b-GGUF-429-words,phi4-mini-4b_fp16,laggard,"A laggard is someone who lags behind others, often due to laziness or lack of effort; a slow-moving person or thing.",II/IIb,base,1,1
+Experiment-30-phi4-mini-instruct-3.8b-GGUF-429-words,phi4-mini-4b_fp16,nostrum,"A nostrum is a medicinal or therapeutic substance, often of dubious efficacy and sometimes fraudulent origin; typically used as an alternative to conventional medicine.",II/IIb,base,0,1
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_fp16,aficionado,An aficionado is a highly devoted or enthusiastic fan of something specific.,II/IIb,base,1,1
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_fp16,bombastic,"""Bombastic is an adjective describing someone or something that uses grandiloquent language with exaggerated claims to impress others.""",II/IIb,base,0,1
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_fp16,evanescent,Evanescent refers to something that exists for a very brief time or has a fleeting nature.,II/IIb,base,1,1
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_fp16,portentous,"The word ""portentous"" means heavy, ominous, or foreboding, often describing something that suggests a great weight of consequence or danger.",II/IIb,base,1,1
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_fp16,antipathy,Antipathy is a strong dislike or opposition to someone or something.,II/IIb,base,1,1
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_fp16,dilatory,Dilatory means slowing down or delaying something.,II/IIb,base,1,1
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_fp16,indigent,Indigent means lacking sufficient income or resources to meet basic needs.,II/IIb,base,0,1
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_fp16,verdant,Verdant means full of green vegetation or lush and healthy.,II/IIb,base,1,1
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_fp16,recondite,"The word ""recondite"" refers to something obscure or difficult to understand.",II/IIb,base,1,1
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_fp16,strident,"The word ""strident"" describes someone who speaks with a bold, forceful, and often unyielding tone.",II/IIb,base,0,1
+Experiment-16-llama3.2_1b-instruct-429-words,llama3.2_1b_q2,epicure,"The term ""epicure"" refers to a person who is particularly fond of food, drinks, or other indulgent activities that provide for their personal satisfaction and pleasure.",II/IIb,q2,0,1
+Experiment-26-qwen2.5_1.5b-instruct-429-words,qwen_q2,stolid,"Stolid is an adjective meaning ""unfeased"".",II/IIb,q2,0,0
+Experiment-27-qwen2.5_0.5b-instruct-429-words,qwen_q2,cupidity,"The term ""cupidity"" refers to an excessive and inappropriate desire or behavior that is often associated with sexual pleasure or desire.",II/IIb,q2,0,0
+Experiment-27-qwen2.5_0.5b-instruct-429-words,qwen_q2,sedulous,"Sedulous means diligent and patient, characterized by meticulous attention to detail and thoroughness in handling tasks or situations.",II/IIb,q2,1,1
+Experiment-30-phi4-mini-instruct-3.8b-GGUF-429-words,phi4-mini-4b_q2_K,ineffable,"The term 'ineffable' refers to something that is impossible or unfeasible for a person, often used figuratively as an adjective: 'something she couldn't do'.",II/IIb,q2,0,0
+Experiment-30-phi4-mini-instruct-3.8b-GGUF-429-words,phi4-mini-4b_q2_K,obfuscate,"Obfuscate means to intentionally create confusion and complexity within a communication channel, thereby hindering transparency of intent or function.",II/IIb,q2,1,1
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q2,affable,"Affable is an adjective describing someone who is pleasant, friendly, and approachable in social situations.",II/IIb,q2,1,1
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q2,stentorian,"The term ""stentorian"" is not recognized as an official English word; it appears to be a misspelling or typo of ""stupendous.""",II/IIb,q2,0,0
+Experiment-34-granite4-h_1b-GGUF-429-words,granite4-h_1b_q2,vigilant,Vigilant is defined as someone who remains alert or watchful to detect potential threats or suspicious activities.,II/IIb,q2,1,1
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q2,felicitous,"The word ""felicitous"" means expressing or being pleasing to the ear of the audience, often in a charming or attractive way, typically in the context of art, literature, or music.",II/IIb,q2,1,1
+Experiment-37-LFM2_700m--GGUF-429-words,LFM2-700M_q2,temporal,"The word ""temporal"" refers to something that relates to time, time's duration, time's value or importance, or time's effect or influence on events or individuals.",II/IIb,q2,1,1
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q2,fervid,"A ""fervid"" is a strong, unpleasant sensation of burning heat in the chest or abdomen, often associated with intense emotional distress.",II/IIb,q2,1,0
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q2,spurious,"""Spurious"" refers to something that appears to be related or connected but is actually unrelated or undesired.",II/IIb,q2,0,0
+Experiment-38-LFM2_1.2b--GGUF-429-words,LFM2-1.2b_q2,verve,"""Verve"" in English can be defined as to express oneself with intense enthusiasm or passion, often in music or performance.",II/IIb,q2,1,1
+Experiment-39-LFM2.5-instruct_1.2b--GGUF-429-words,LFM2.5-1.2b_q2,bourgeois,"""Bourgeois"" is an adjective used to describe something or someone that is refined, refined, or sophisticated, often in a social or cultural context, emphasizing a sense of elegance or superiority.",II/IIb,q2,0,0
+Experiment-13-llama3.2_3b-instruct-429-words,llama_fp16,entreat,"To entreat someone means to persuade or appeal to them in a respectful and urgent manner, often with a sense of urgency or importance.",III,base,0,1
+Experiment-14-mistral_7b-instruct-429-words,mistral_fp16,penurious,"Penurious refers to someone who is extremely economical or frugal, often to an excessive or unwilling degree.",III,base,0,1
+Experiment-17-gemma2_9b-instruct-429-words,gemma2_9b_fp16,indigent,"Indigent means lacking sufficient resources to meet basic needs, typically referring to poverty.",III,base,0,1
+Experiment-17-gemma2_9b-instruct-429-words,gemma2_9b_fp16,licentious,"Licentious means lacking moral restraint, especially in sexual matters.",III,base,1,1
+Experiment-17-gemma2_9b-instruct-429-words,gemma2_9b_fp16,magnanimous,"Magnanimous means showing or characterized by great generosity and nobility of mind, especially toward a rival or someone less powerful.",III,base,0,1
+Experiment-18-qwen2.5_7b-instruct-429-words,qwen_fp16,salubrious,"""Salubrious"" means beneficial to or promoting health and well-being.",III,base,1,1
+Experiment-22-GLM4_9b-429-words,glm_fp16,polemical,Polemical refers to characterized by or involving controversial argumentation or debate.,III,base,1,1
+Experiment-22-GLM4_9b-429-words,glm_fp16,upbraid,Upbraid means to reprove or scold someone harshly for their faults or mistakes.,III,base,1,1
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_fp16,apotheosis,Apotheosis is the act or state of being elevated to divine or supreme status.,III,base,0,1
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_fp16,derelict,"Derelict means abandoned or neglected, especially in a state of decay or disrepair.",III,base,1,1
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_fp16,perfunctory,"The term ""perfunctory"" refers to an action or response that is performed with minimal effort or enthusiasm, often lacking genuine interest or commitment.",III,base,0,1
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_fp16,pernicious,"The term ""pernicious"" refers to something that is extremely harmful or destructive.",III,base,1,1
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_fp16,sullen,"The term ""sullen"" refers to an individual who is gloomy, irritable, or resentful, often displaying a hostile or unfriendly demeanor.",III,base,1,1
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_fp16,forbear,"The verb **""forbear""** means to **refrain from doing something, especially out of restraint or patience**.",III,base,1,1
+Experiment-42-ministral3-8b-instruct2512-gguf-429-words,ministral3-8b_bf16,punctilious,"**""Punctilious""** means **extremely attentive to small details, especially in etiquette or correctness**.",III,base,0,1
+Experiment-13-llama3.2_3b-instruct-429-words,llama_q2,elliptical,"The English word ""elliptical"" refers to a shape or path that is curved, but not circular, often used in sports, navigation, and other contexts where a precise circle is not required.",III,q2,0,1
+Experiment-14-mistral_7b-instruct-429-words,mistral_q2,veritable,"Veritable means something that is so or so extremely; especially, almost entirely.",III,q2,0,0
+Experiment-17-gemma2_9b-instruct-429-words,gemma2_9b_q2,equanimity,"Equanimity is a state of calmness and composure, especially in difficult or stressful situations.",III,q2,1,1
+Experiment-17-gemma2_9b-instruct-429-words,gemma2_9b_q2,suborn,"To suborn means to secretly persuade someone to commit a crime, especially perjury or treason.",III,q2,0,1
+Experiment-17-gemma2_9b-instruct-429-words,gemma2_9b_q2,voracious,"Voracious describes someone with an extremely eager and intense appetite for something, especially food or knowledge.",III,q2,0,1
+Experiment-18-qwen2.5_7b-instruct-429-words,qwen_q2,rebuff,"""Rebuff"" is a verb meaning to firmly reject or rebuke.",III,q2,1,1
+Experiment-22-GLM4_9b-429-words,glm_q2,frangible,"The word ""frangible"" refers to something that is easily broken or destroyed, lacking strength or durability.",III,q2,1,1
+Experiment-22-GLM4_9b-429-words,glm_q2,vituperative,"The word ""vituperative"" refers to language that is harshly or severely critical, typically expressing strong resentment or anger.",III,q2,1,1
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q2_K,acerbic,"Acerbic means sharp, biting, or sharply critical in tone or nature.",III,q2,1,1
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q2_K,dichotomy,Dichotomy refers to a division or contrast between two opposing or distinct parts or aspects.,III,q2,1,1
+Experiment-29-qwen3_2507_4b-instruct-429-words,qwen3:4b_q2_K,impetuous,"Impetuous means acting with sudden, strong, and often uncontrolled energy or urgency.",III,q2,0,1
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q2,bifurcate,"The verb ""bifurcate"" means to divide or split something into two parts or branches.",III,q2,1,1
+Experiment-35-granite4-h_3b-GGUF-429-words,granite4-h_3b_q2,partisan,"The term ""partisan"" refers to an individual who is strongly partisan or committed to a particular political party or ideology, often displaying loyalty to that side's interests and policies while being critical of opposing views.",III,q2,0,1
+Experiment-36-ministral3_3b-instruct2512-GGUF-429-words,ministral3-3b_q2,verdant,"The word **""verdant""** describes something covered with or characterized by lush, green vegetation.",III,q2,1,1
+Experiment-42-ministral3-8b-instruct2512-gguf-429-words,ministral3-8b_q2_K,incorrigible,"**""Incorrigible""** means *unable to be changed or improved*—especially referring to a stubborn flaw, habit, or personality trait.",III,q2,0,1

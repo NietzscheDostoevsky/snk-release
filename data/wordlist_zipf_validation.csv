@@ -1,0 +1,430 @@
+word,difficulty,pos,common_synonym,zipf,in_wordnet,wordnet_gloss,in_web2,verified_real
+partisan,medium,adj,biased,3.81,True,a fervent and even militant proponent of something,True,True
+wan,medium,adj,pale,3.8,True,a computer network that spans a wider area than does a local area network,True,True
+temporal,medium,adj,earthly,3.63,True,the semantic role of the noun phrase that designates the time of the state or action denoted by the verb,True,True
+eccentric,medium,adj,odd,3.58,True,a person with an unusual or odd personality,True,True
+solvent,medium,adj,stable,3.44,True,a liquid substance capable of dissolving other substances,True,True
+ubiquitous,medium,adj,common,3.42,True,being present everywhere at once,True,True
+bourgeois,medium,adj,plain,3.4,True,a capitalist who engages in industrial commercial enterprise,True,True
+arid,medium,adj,dry,3.37,True,lacking sufficient water or rainfall,True,True
+conjecture,medium,noun,guess,3.35,True,a hypothesis that has been formed by speculating or conjecturing (usually with little hard evidence),True,True
+vigilant,medium,adj,watchful,3.34,True,carefully observant or attentive; on the lookout for possible danger,True,True
+feral,medium,adj,wild,3.29,True,wild and menacing,True,True
+poignant,medium,adj,moving,3.27,True,arousing affect,True,True
+latent,medium,adj,hidden,3.27,True,potentially existing but not presently evident or realized,True,True
+disparate,medium,adj,different,3.26,True,fundamentally different or distinct in quality or kind,True,True
+extant,medium,adj,existing,3.25,True,still in existence; not extinct or destroyed or lost; ; - Edward Clodd,True,True
+plethora,medium,noun,excess,3.24,True,extreme excess,True,True
+luminous,medium,adj,bright,3.24,True,softly bright or radiant,True,True
+subversive,medium,adj,rebellious,3.21,True,a radical supporter of political or social revolution,True,True
+elliptical,medium,adj,unclear,3.21,True,rounded like an egg,True,True
+clandestine,medium,adj,secret,3.21,True,conducted with or marked by hidden aims or methods,True,True
+ethereal,medium,adj,light,3.2,True,characterized by lightness and insubstantiality; as impalpable or intangible as air; - Thomas Carlyle,True,True
+oblique,medium,adj,slanted,3.2,True,any grammatical case other than the nominative,True,True
+esoteric,medium,adj,secret,3.17,True,confined to and understandable by only an enlightened inner circle,True,True
+zenith,medium,noun,top,3.15,True,the point above the observer that is directly opposite the nadir on the imaginary sphere against which celestial bodies appear to be projected,True,True
+inept,medium,adj,clumsy,3.13,True,not elegant or graceful in expression,True,True
+confluence,medium,noun,meeting,3.12,True,a place where things merge or flow together (especially rivers),True,True
+salient,medium,adj,important,3.12,True,(military) the part of the line of battle that projects closest to the enemy,True,True
+enigmatic,medium,adj,mysterious,3.11,True,not clear to the understanding,True,True
+egregious,medium,adj,shocking,3.1,True,conspicuously and outrageously bad or reprehensible,True,True
+derelict,medium,adj,abandoned,3.1,True,"a person without a home, job, or property",True,True
+auspicious,medium,adj,lucky,3.09,True,auguring favorable circumstances and good luck,True,True
+dichotomy,medium,noun,split,3.09,True,being twofold; a classification into two opposed parts or subclasses,True,True
+penchant,medium,noun,liking,3.07,True,a strong liking,True,True
+ancillary,medium,adj,extra,3.06,True,furnishing added support,True,True
+serpentine,medium,adj,twisting,3.06,True,resembling a serpent in form,True,True
+talisman,medium,noun,charm,3.06,True,a trinket or piece of jewelry usually hung about the neck and thought to be a magical protection against evil or disease,True,True
+paragon,medium,noun,model,3.05,True,an ideal instance; a perfect embodiment of a concept,True,True
+intrepid,medium,adj,brave,3.04,True,invulnerable to fear or intimidation,True,True
+decadent,medium,adj,wasteful,3.04,True,a person who has fallen into a decadent state (morally or artistically),True,True
+dissonance,medium,noun,clash,3.02,True,a conflict of people's opinions or actions or characters,True,True
+tenuous,medium,adj,weak,3.02,True,having thin consistency,True,True
+veritable,medium,adj,real,3.01,True,often used as intensifiers,True,True
+nefarious,medium,adj,evil,3.0,True,extremely wicked,True,True
+zealous,medium,adj,eager,2.99,True,marked by active interest and enthusiasm,True,True
+ephemeral,medium,adj,brief,2.99,True,"anything short-lived, as an insect that lives only for a day in its winged form",True,True
+vindictive,medium,adj,spiteful,2.98,True,disposed to seek revenge or intended for revenge; - Shakespeare; - M.R.Cohen,True,True
+spurious,medium,adj,false,2.96,True,plausible but false,True,True
+idiosyncratic,medium,adj,quirky,2.94,True,peculiar to the individual,True,True
+veracity,medium,noun,truth,2.94,True,unwillingness to tell lies,True,True
+viscous,medium,adj,thick,2.94,True,having a relatively high resistance to flow,True,True
+hubris,medium,noun,pride,2.94,True,overbearing pride or presumption,False,True
+nepotism,medium,noun,favoritism,2.93,True,favoritism shown to relatives or close friends by those in power (as by giving them jobs),True,True
+milieu,medium,noun,setting,2.93,True,the environmental condition,True,True
+dogmatic,medium,adj,strict,2.93,True,characterized by assertion of unproved or unprovable principles,True,True
+malevolent,medium,adj,evil,2.92,True,wishing or appearing to wish evil to others; arising from intense ill will or hatred,True,True
+euphemism,medium,noun,softening,2.92,True,an inoffensive or indirect expression that is substituted for one that is considered offensive or too harsh,True,True
+onerous,medium,adj,heavy,2.92,True,not easily borne; wearing,True,True
+exacerbate,medium,verb,worsen,2.92,True,make worse,True,True
+dearth,medium,noun,lack,2.92,True,an acute insufficiency,True,True
+cursory,medium,adj,quick,2.92,True,hasty and without attention to detail; not thorough,True,True
+replete,medium,adj,full,2.91,True,fill to satisfaction,True,True
+virulent,medium,adj,poisonous,2.88,True,extremely poisonous or injurious; producing venom,True,True
+draconian,medium,adj,harsh,2.88,True,of or relating to Draco or his harsh code of laws,True,True
+hapless,medium,adj,unlucky,2.88,True,deserving or inciting pity; ; ; - Galsworthy,True,True
+intractable,medium,adj,stubborn,2.88,True,not tractable; difficult to manage or mold,True,True
+banal,medium,adj,boring,2.88,True,repeated too often; overfamiliar through overuse,True,True
+divest,medium,verb,remove,2.88,True,take away possessions from someone,True,True
+pernicious,hard,adj,harmful,2.87,True,exceedingly harmful,True,True
+rescind,medium,verb,cancel,2.87,True,cancel officially,True,True
+wanton,medium,adj,cruel,2.86,True,lewd or lascivious woman,True,True
+precocious,medium,adj,early,2.86,True,characterized by or characteristic of exceptionally early development or maturity (especially in mental aptitude),True,True
+verve,medium,noun,energy,2.85,True,an energetic style,True,True
+immutable,medium,adj,fixed,2.85,True,not subject or susceptible to change or variation in form or quality or nature,True,True
+vex,medium,verb,annoy,2.85,True,"cause annoyance in; disturb, especially by minor irritations",True,True
+zephyr,hard,noun,breeze,2.85,True,a slight wind (usually refreshing),True,True
+doughty,hard,adj,brave,2.83,False,,True,True
+mercurial,medium,adj,changeable,2.82,True,liable to sudden unpredictable change,True,True
+malleable,medium,adj,flexible,2.82,True,easily influenced,True,True
+cathartic,medium,adj,cleansing,2.81,True,a purging medicine; stimulates evacuation of the bowels,True,True
+anathema,hard,noun,curse,2.79,True,a detested person,True,True
+capricious,medium,adj,changeable,2.79,True,changeable,True,True
+accretion,medium,noun,growth,2.78,True,an increase by natural growth or addition,True,True
+panacea,medium,noun,cure,2.78,True,(Greek mythology) the goddess of healing; daughter of Aesculapius and sister of Hygeia,True,True
+precipitate,medium,adj,sudden,2.78,True,a precipitated solid substance in suspension or after settling or filtering,True,True
+odious,medium,adj,hateful,2.77,True,unequivocally detestable; ; ; ; - Edmund Burke,True,True
+voracious,medium,adj,hungry,2.77,True,excessively greedy and grasping,True,True
+indomitable,medium,adj,strong,2.77,True,impossible to subdue,True,True
+incisive,medium,adj,sharp,2.76,True,having or demonstrating ability to recognize or draw fine distinctions,True,True
+pariah,medium,noun,outcast,2.76,True,a person who is rejected (from society or home),True,True
+irrevocable,medium,adj,final,2.76,True,incapable of being retracted or revoked; - Shakespeare,True,True
+nebulous,medium,adj,vague,2.75,True,lacking definite form or limits; - H.T.Moore,True,True
+concomitant,hard,adj,linked,2.75,True,an event or situation that happens at the same time as or in connection with another,True,True
+sanguine,medium,adj,hopeful,2.74,True,a blood-red color,True,True
+didactic,medium,adj,teaching,2.74,True,instructive (especially excessively),True,True
+nihilism,medium,noun,nothingness,2.74,True,a revolutionary doctrine that advocates destruction of the social system for its own sake,True,True
+petulant,medium,adj,irritable,2.73,True,easily irritated or annoyed,True,True
+deleterious,hard,adj,harmful,2.72,True,harmful to living things,True,True
+cogent,medium,adj,strong,2.71,True,powerfully persuasive,True,True
+omniscient,medium,adj,allknowing,2.71,True,infinitely wise,True,True
+gregarious,medium,adj,social,2.71,True,(of animals) tending to form a group with others of the same species,True,True
+sullen,medium,adj,gloomy,2.71,True,showing a brooding ill humor; ; ; ; ; ; - Bruce Bliven,True,True
+antipathy,medium,noun,dislike,2.7,True,a feeling of intense dislike,True,True
+verdant,medium,adj,green,2.7,True,characterized by abundance of verdure,True,True
+subterfuge,medium,noun,trick,2.69,True,something intended to misrepresent the true nature of an activity,True,True
+allay,medium,verb,calm,2.69,True,lessen the intensity of or calm,True,True
+incongruous,medium,adj,fitting,2.69,True,lacking in harmony or compatibility or appropriateness,True,True
+ostentatious,medium,adj,showy,2.68,True,intended to attract notice and impress others,True,True
+fortuitous,medium,adj,lucky,2.68,True,having no cause or apparent cause,True,True
+espouse,medium,verb,support,2.68,True,"choose and follow; as of theories, ideas, policies, strategies or plans",True,True
+indigent,medium,adj,poor,2.68,True,poor enough to need help from others,True,True
+resplendent,hard,adj,shining,2.67,True,having great beauty and splendor,True,True
+terse,medium,adj,brief,2.67,True,brief and to the point; effectively cut short,True,True
+exegesis,hard,noun,explanation,2.67,True,an explanation or critical interpretation (especially of the Bible),True,True
+strident,medium,adj,harsh,2.66,True,conspicuously and offensively loud; given to vehement outcry,True,True
+pedantic,medium,adj,fussy,2.66,True,marked by a narrow focus on or display of learning especially its trivial aspects,True,True
+affable,medium,adj,friendly,2.66,True,diffusing warmth and friendliness,True,True
+apocryphal,hard,adj,false,2.66,True,being of questionable authenticity,True,True
+halcyon,hard,adj,peaceful,2.65,True,(Greek mythology) a woman who was turned into a kingfisher,True,True
+polemic,medium,noun,attack,2.64,True,a writer who argues in opposition to others (especially in theology),True,True
+myopic,medium,adj,narrow,2.64,True,unable to see distant objects clearly,True,True
+insipid,medium,adj,dull,2.64,True,lacking taste or flavor or tang,True,True
+fastidious,hard,adj,careful,2.64,True,giving careful attention to detail; hard to please; excessively concerned with cleanliness,True,True
+pliable,medium,adj,flexible,2.64,True,susceptible to being led or directed,True,True
+bombastic,medium,adj,loud,2.63,True,ostentatiously lofty in style,True,True
+engender,medium,verb,cause,2.63,True,call forth,True,True
+reticent,medium,adj,quiet,2.62,True,temperamentally disinclined to talk,True,True
+plucky,medium,adj,brave,2.62,True,marked by courage and determination in the face of difficulties or danger; robust and uninhibited; ; -Judith Crist,True,True
+variegated,medium,adj,mixed,2.62,True,"change the appearance of, especially by marking with different colors",True,True
+proximate,medium,adj,near,2.62,True,closest in degree or order (space or time) especially in a chain of causes and effects,True,True
+scintillating,medium,adj,sparkling,2.62,True,give off,True,True
+exonerate,medium,verb,clear,2.61,True,pronounce not guilty of criminal charges,True,True
+facile,medium,adj,simple,2.61,True,arrived at without due care or effort; lacking depth,True,True
+pithy,medium,adj,brief,2.61,True,concise and full of meaning; ; - Hervey Allen,True,True
+magnanimous,medium,adj,kind,2.61,True,noble and generous in spirit,True,True
+cacophony,medium,noun,noise,2.61,True,a loud harsh or strident noise,True,True
+paucity,medium,noun,scarcity,2.61,True,an insufficient quantity or number,True,True
+implacable,medium,adj,unyielding,2.61,True,incapable of being placated,True,True
+impetuous,medium,adj,hasty,2.6,True,characterized by undue haste and lack of thought or deliberation; ; ; ; ; (`brainish' is archaic),True,True
+prosaic,medium,adj,dull,2.6,True,not fanciful or imaginative,True,True
+quandary,medium,noun,problem,2.6,True,a situation from which extrication is difficult especially an unpleasant or trying one,True,True
+denigrate,medium,verb,insult,2.59,True,cause to seem less serious; play down,True,True
+diatribe,medium,noun,rant,2.58,True,thunderous verbal attack,True,True
+hegemonic,hard,adj,dominant,2.58,False,,True,True
+sardonic,medium,adj,mocking,2.58,True,disdainfully or ironically humorous; scornful and mocking; - Frank Schoenberner; - Irwin Edman,True,True
+conflagration,hard,noun,fire,2.57,True,a very intense and uncontrolled fire,True,True
+inexorable,medium,adj,relentless,2.57,True,not to be placated or appeased or moved by entreaty,True,True
+eschew,medium,verb,avoid,2.57,True,avoid and stay away from deliberately; stay clear of,True,True
+moribund,hard,adj,dying,2.57,True,not growing or changing; without force or vitality,True,True
+vitriolic,medium,adj,harsh,2.57,True,harsh or corrosive in tone,True,True
+aficionado,medium,noun,fan,2.57,True,a fan of bull fighting,False,True
+vernal,hard,adj,spring,2.56,True,suggestive of youth; vigorous and fresh,True,True
+demure,medium,adj,shy,2.56,True,affectedly modest or shy especially in a playful or provocative way,True,True
+inscrutable,medium,adj,mysterious,2.56,True,of an obscure nature; ; ; ; - Rachel Carson,True,True
+ameliorate,medium,verb,improve,2.56,True,to make better,True,True
+hermetic,hard,adj,sealed,2.56,True,completely sealed; completely airtight,True,True
+acrimonious,hard,adj,bitter,2.55,True,marked by strong resentment or cynicism,True,True
+dour,medium,adj,grim,2.55,True,stubbornly unyielding; ; ; ; - T.S.Eliot,True,True
+recalcitrant,medium,adj,stubborn,2.55,True,stubbornly resistant to authority or control,True,True
+indefatigable,hard,adj,tireless,2.55,True,showing sustained enthusiastic action with unflagging vitality,True,True
+axiomatic,medium,adj,obvious,2.54,True,evident without proof or argument,True,True
+languid,medium,adj,tired,2.54,True,lacking spirit or liveliness,True,True
+vindicate,medium,verb,justify,2.54,True,show to be right by providing justification or proof,True,True
+anachronism,medium,noun,error,2.53,True,something located at a time when it could not have existed or occurred,True,True
+predilection,medium,noun,preference,2.52,True,a predisposition in favor of something,True,True
+effervescent,medium,adj,bubbly,2.51,True,used of wines and waters; charged naturally or artificially with carbon dioxide,True,True
+incorrigible,medium,adj,hopeless,2.51,True,impervious to correction by punishment,True,True
+facetious,medium,adj,playful,2.51,True,cleverly amusing in tone,True,True
+ostensible,medium,adj,apparent,2.5,True,appearing as such but not necessarily so,True,True
+vapid,medium,adj,dull,2.5,True,lacking taste or flavor or tang,True,True
+disquiet,medium,noun,worry,2.5,True,a feeling of mild anxiety about possible developments,True,True
+furtive,medium,adj,sneaky,2.49,True,marked by quiet and caution and secrecy; taking pains to avoid being observed,True,True
+polemical,medium,adj,critical,2.49,True,of or involving dispute or controversy,True,True
+acquiesce,medium,verb,agree,2.48,True,to agree or express agreement,True,True
+feckless,hard,adj,weak,2.48,True,not fit to assume responsibility,True,True
+demagogue,medium,noun,leader,2.48,True,a political leader who seeks support by appealing to popular passions and prejudices,True,True
+subjugate,medium,verb,conquer,2.47,True,put down by force or intimidation,True,True
+perdition,hard,noun,ruin,2.46,True,(Christianity) the abode of Satan and the forces of evil; where sinners suffer eternal punishment; - John Milton; ; -Dr. Johnson,True,True
+urbane,medium,adj,polished,2.46,True,showing a high degree of refinement and the assurance that comes from wide social experience,True,True
+rarefied,medium,adj,lofty,2.46,True,lessen the density or solidity of,False,True
+vociferous,medium,adj,noisy,2.45,True,conspicuously and offensively loud; given to vehement outcry,True,True
+perfunctory,medium,adj,casual,2.45,True,hasty and without attention to detail; not thorough,True,True
+tawdry,medium,adj,cheap,2.44,True,tastelessly showy,True,True
+gossamer,medium,adj,light,2.44,True,a gauze fabric with an extremely fine texture,True,True
+vilify,medium,verb,insult,2.44,True,spread negative information about,True,True
+circuitous,medium,adj,roundabout,2.43,True,marked by obliqueness or indirection in speech or conduct,True,True
+apotheosis,hard,noun,peak,2.43,True,model of excellence or perfection of a kind; one having no equal,True,True
+temerity,medium,noun,boldness,2.42,True,fearless daring,True,True
+ennui,medium,noun,boredom,2.41,True,the feeling of being bored by something tedious,True,True
+picayune,hard,adj,trivial,2.41,True,(informal) small and of little importance,True,True
+ineffable,hard,adj,unsaid,2.41,True,defying expression or description,True,True
+equanimity,medium,noun,calm,2.4,True,steadiness of mind under stress,True,True
+hackneyed,medium,adj,tired,2.4,True,repeated too often; overfamiliar through overuse,True,True
+convivial,medium,adj,cheerful,2.39,True,occupied with or fond of the pleasures of good company,True,True
+proclivity,medium,noun,tendency,2.39,True,a natural inclination,True,True
+florid,medium,adj,fancy,2.39,True,elaborately or excessively ornamented,True,True
+laconic,medium,adj,brief,2.39,True,brief and to the point; effectively cut short,True,True
+polyglot,medium,noun,linguist,2.38,True,a person who speaks more than one language,True,True
+dirge,medium,noun,song,2.38,True,a song or hymn of mourning composed or performed as a memorial to a dead person,True,True
+pallid,medium,adj,pale,2.38,True,abnormally deficient in color as suggesting physical or emotional distress,True,True
+profligate,medium,adj,wasteful,2.37,True,a dissolute man in fashionable society,True,True
+taciturn,medium,adj,silent,2.37,True,habitually reserved and uncommunicative,True,True
+restive,medium,adj,restless,2.37,True,being in a tense state,True,True
+puerile,medium,adj,childish,2.37,True,of or characteristic of a child,True,True
+alacrity,medium,noun,eagerness,2.36,True,liveliness and eagerness,True,True
+aplomb,medium,noun,calm,2.36,True,great coolness and composure under strain,True,True
+sartorial,medium,adj,clothing,2.36,True,of or relating to the sartorius muscle,True,True
+quiescent,hard,adj,still,2.35,True,not active or activated,True,True
+attenuate,hard,verb,weaken,2.35,True,weaken the consistency of (a chemical substance),True,True
+trenchant,medium,adj,sharp,2.35,True,"having keenness and forcefulness and penetration in thought, expression, or intellect",True,True
+ersatz,medium,adj,fake,2.34,True,an artificial or inferior substitute or imitation,True,True
+venal,medium,adj,corrupt,2.34,True,capable of being corrupted,True,True
+turgid,medium,adj,swollen,2.34,True,ostentatiously lofty in style,True,True
+fractious,hard,adj,grumpy,2.34,True,stubbornly resistant to authority or control,True,True
+ignominious,hard,adj,shameful,2.34,True,(used of conduct or character) deserving or bringing disgrace or shame; - Rachel Carson,True,True
+umbrage,medium,noun,offense,2.34,True,a feeling of anger caused by being offended,True,True
+rebuff,medium,verb,refuse,2.34,True,a deliberate discourteous act (usually as an expression of anger or disapproval),True,True
+heterodox,hard,adj,unusual,2.33,True,characterized by departure from accepted beliefs or standards,True,True
+quixotic,medium,adj,unrealistic,2.33,True,not sensible about practical matters; idealistic and unrealistic,True,True
+arabesque,hard,noun,design,2.32,True,position in which the dancer has one leg raised behind and arms outstretched in a conventional pose,True,True
+impassive,medium,adj,calm,2.32,True,having or revealing little emotion or sensibility; not easily aroused or excited; ; - Nordhoff & Hall; -Virginia Woolf,True,True
+neophyte,medium,noun,beginner,2.32,True,a plant that is found in an area where it had not been recorded previously,True,True
+entreat,medium,verb,beg,2.32,True,ask for or request earnestly,True,True
+acerbic,medium,adj,sharp,2.31,True,sour or bitter in taste,True,True
+largesse,medium,noun,gift,2.31,True,a gift or money given (as for service or out of benevolence); usually given ostentatiously,False,True
+expeditious,medium,adj,quick,2.31,True,marked by speed and efficiency,True,True
+peripatetic,hard,adj,wandering,2.31,True,a person who walks from place to place,True,True
+nostrum,hard,noun,cure,2.31,True,hypothetical remedy for all ills or diseases; once sought by the alchemists,True,True
+epistolary,hard,adj,written,2.3,True,written in the form of or carried on by letters or correspondence,True,True
+approbation,medium,noun,praise,2.3,True,official approval,True,True
+credulous,medium,adj,gullible,2.29,True,disposed to believe on little evidence,True,True
+redolent,medium,adj,fragrant,2.29,True,serving to bring to mind; - Wilder Hobson,True,True
+histrionic,medium,adj,dramatic,2.29,True,characteristic of acting or a stage performance; often affected,True,True
+intransigent,medium,adj,stubborn,2.29,True,"impervious to pleas, persuasion, requests, reason; ; - W.Churchill",True,True
+irascible,medium,adj,angry,2.29,True,quickly aroused to anger,True,True
+obfuscate,medium,verb,confuse,2.28,True,make obscure or unclear,True,True
+bellicose,hard,adj,warlike,2.28,True,having or showing a ready disposition to fight,True,True
+dilettante,medium,noun,amateur,2.28,True,an amateur who engages in an activity without serious intentions and who pretends to have knowledge,True,True
+concatenation,hard,noun,chain,2.27,True,the state of being linked together as in a chain; union in a linked series,True,True
+scurrilous,hard,adj,abusive,2.27,True,expressing offensive reproach,True,True
+indolent,medium,adj,lazy,2.26,True,disinclined to work or exertion,True,True
+renege,medium,verb,backtrack,2.26,True,the mistake of not following suit when able to do so,True,True
+mordant,hard,adj,biting,2.25,True,a substance used to treat leather or other materials before dyeing; aids in dyeing process,True,True
+chicanery,hard,noun,trick,2.24,True,the use of tricks to deceive someone (usually to extract money from them),True,True
+fatuous,hard,adj,silly,2.23,True,devoid of intelligence,True,True
+frisson,hard,noun,thrill,2.22,True,an almost pleasurable sensation of fright,False,True
+surfeit,medium,noun,excess,2.22,True,the state of being more than full,True,True
+jocular,medium,adj,funny,2.21,True,characterized by jokes and good humor,True,True
+reprobate,medium,noun,scoundrel,2.2,True,a person without moral scruples,True,True
+misanthrope,medium,noun,hater,2.2,True,someone who dislikes people in general,True,True
+sycophant,medium,noun,flatterer,2.2,True,a person who tries to please someone in order to gain a personal advantage,True,True
+aver,medium,verb,state,2.2,True,report or maintain,True,True
+protean,hard,adj,changeable,2.2,True,taking on different forms,True,True
+exigent,hard,adj,urgent,2.19,True,demanding attention; ; ; - H.L.Mencken,True,True
+parsimonious,hard,adj,stingy,2.18,True,excessively unwilling to spend,True,True
+verisimilitude,hard,noun,realism,2.18,True,the appearance of truth; the quality of seeming to be true,True,True
+ruminate,medium,verb,think,2.17,True,chew the cuds,True,True
+inimical,hard,adj,hostile,2.17,True,not friendly,True,True
+ebullient,medium,adj,cheerful,2.17,True,joyously unrestrained,True,True
+sere,hard,adj,dry,2.16,True,(used especially of vegetation) having lost all moisture,True,True
+redoubtable,hard,adj,fearsome,2.16,True,inspiring fear; ; - G.H.Johnston,True,True
+turbid,hard,adj,cloudy,2.16,True,(of liquids) clouded as with sediment,True,True
+fulsome,medium,adj,excessive,2.15,True,unpleasantly and excessively suave or ingratiating in manner or speech,True,True
+evanescent,hard,adj,fading,2.15,True,tending to vanish like vapor,True,True
+assiduous,medium,adj,hardworking,2.15,True,marked by care and persistent effort,True,True
+succor,hard,noun,help,2.15,True,assistance in time of difficulty,True,True
+iconoclast,medium,noun,rebel,2.15,True,a destroyer of images used in religious worship,True,True
+juxtapose,medium,verb,compare,2.15,True,place side by side,True,True
+obsequious,medium,adj,servile,2.14,True,attempting to win favor from influential people by flattery,True,True
+pugnacious,medium,adj,aggressive,2.14,True,tough and callous by virtue of experience,True,True
+portentous,hard,adj,ominous,2.14,True,of momentous or ominous significance; - Herman Melville,True,True
+corpulent,medium,adj,fat,2.14,True,excessively fat,True,True
+simulacrum,hard,noun,image,2.13,True,an insubstantial or vague semblance,True,True
+raconteur,medium,noun,storyteller,2.13,True,a person skilled in telling anecdotes,True,True
+salubrious,hard,adj,healthy,2.13,True,promoting health; healthful; ; ; ; ; - C.B.Davis,True,True
+nonplussed,hard,adj,confused,2.12,True,be a mystery or bewildering to,False,True
+wizened,hard,adj,wrinkled,2.11,True,lean and wrinkled by shrinkage as from age or illness; ; ; ; -W.F.Starkie,True,True
+garrulous,medium,adj,talkative,2.11,True,full of trivial conversation,True,True
+obviate,medium,verb,remove,2.11,True,do away with,True,True
+impugn,medium,verb,attack,2.11,True,attack as false or wrong,True,True
+laudatory,medium,adj,praising,2.11,True,full of or giving praise,True,True
+opprobrium,hard,noun,shame,2.11,True,state of disgrace resulting from public abuse,True,True
+loquacious,medium,adj,talkative,2.11,True,full of trivial conversation,True,True
+arcanum,hard,noun,secret,2.11,True,information known only to a special group,True,True
+diffident,medium,adj,shy,2.1,True,showing modest reserve,True,True
+desultory,hard,adj,aimless,2.1,True,marked by lack of definite plan or regularity or purpose; jumping from one thing to another,True,True
+soporific,medium,adj,sleepy,2.1,True,a drug that induces sleep,True,True
+invidious,hard,adj,unfair,2.09,True,containing or implying a slight or showing prejudice,True,True
+perfidious,hard,adj,treacherous,2.09,True,tending to betray; especially having a treacherous character as attributed to the Carthaginians by the Romans,True,True
+ribald,hard,adj,rude,2.08,True,a ribald person; someone who uses vulgar and offensive language,True,True
+peremptory,hard,adj,firm,2.08,True,offensively self-assured or given to exercising usually unwarranted power,True,True
+antediluvian,hard,adj,ancient,2.08,True,any of the early patriarchs who lived prior to the Noachian deluge,True,True
+abrogate,hard,verb,cancel,2.08,True,revoke formally,True,True
+officious,medium,adj,bossy,2.08,True,intrusive in a meddling or offensive manner,True,True
+phlegmatic,medium,adj,calm,2.07,True,showing little emotion,True,True
+abscond,hard,verb,escape,2.07,True,run away; usually includes taking something or somebody along,True,True
+licentious,hard,adj,wild,2.07,True,lacking moral discipline; especially sexually unrestrained,True,True
+harangue,medium,noun,speech,2.07,True,a loud bombastic declamation expressed with strong emotion,True,True
+mendacious,hard,adj,lying,2.06,True,given to lying,True,True
+inchoate,hard,adj,unfinished,2.06,True,only partly in existence; imperfectly formed,True,True
+scintilla,hard,noun,trace,2.06,True,a tiny or scarcely detectable amount,True,True
+hedonist,medium,noun,pleaser,2.04,True,someone motivated by desires for sensual pleasures,True,True
+limpid,hard,adj,clear,2.04,True,clear and bright,True,True
+demarcate,hard,verb,mark,2.04,True,"separate clearly, as if by boundaries",True,True
+voluble,medium,adj,talkative,2.04,True,marked by a ready flow of speech,True,True
+unctuous,medium,adj,oily,2.03,True,unpleasantly and excessively suave or ingratiating in manner or speech,True,True
+lugubrious,hard,adj,gloomy,2.02,True,excessively mournful,True,True
+obdurate,medium,adj,stubborn,2.01,True,stubbornly persistent in wrongdoing,True,True
+stolid,medium,adj,dull,2.01,True,having or revealing little emotion or sensibility; not easily aroused or excited; ; - Nordhoff & Hall; -Virginia Woolf,True,True
+truculent,hard,adj,hostile,2.01,True,defiantly aggressive,True,True
+forbear,medium,verb,pause,2.01,True,a person from whom you are descended,True,True
+extemporaneous,hard,adj,unplanned,2.01,True,with little or no preparation or forethought,True,True
+bacchanal,hard,noun,party,2.0,True,someone who engages in drinking bouts,True,True
+sublimate,hard,verb,redirect,2.0,True,the product of vaporization of a solid,True,True
+panegyric,hard,noun,praise,2.0,True,a formal expression of praise,True,True
+execrable,hard,adj,awful,1.99,True,of very poor quality or condition,True,True
+tendentious,hard,adj,biased,1.98,True,having or marked by a strong tendency especially a controversial one,True,True
+decorous,medium,adj,proper,1.98,True,characterized by propriety and dignity and good taste in manners and conduct,True,True
+fecund,medium,adj,fertile,1.97,True,capable of producing offspring or vegetation,True,True
+calumny,hard,noun,lie,1.97,True,a false accusation of an offense or a malicious misrepresentation of someone's words or actions,True,True
+diaphanous,hard,adj,thin,1.97,True,so thin as to transmit light,True,True
+laggard,medium,noun,slowpoke,1.97,True,someone who takes more time than necessary; someone who lags behind,True,True
+celerity,hard,noun,speed,1.96,True,a rate that is rapid,True,True
+supercilious,medium,adj,proud,1.94,True,having or showing arrogant superiority to and disdain of those one views as unworthy; ; ; ; ; ; ; - W.L.Shirer,True,True
+imbroglio,hard,noun,mess,1.94,True,an intricate and confusing interpersonal or political situation,True,True
+anomie,hard,noun,chaos,1.94,True,personal state of isolation and anxiety resulting from a lack of social control and regulation,False,True
+solipsistic,hard,adj,selfish,1.93,False,,True,True
+ingenuous,medium,adj,open,1.92,True,characterized by an inability to mask your feelings; not devious,True,True
+castigate,hard,verb,scold,1.92,True,censure severely,True,True
+yokel,medium,noun,bumpkin,1.91,True,a person who is not very intelligent or interested in culture,True,True
+colloquy,hard,noun,talk,1.91,True,a conversation especially a formal one,True,True
+inure,hard,verb,harden,1.9,True,cause to accept or become hardened to; habituate,True,True
+felicitous,hard,adj,fitting,1.86,True,exhibiting an agreeably appropriate manner or style,True,True
+recidivist,hard,noun,offender,1.84,True,someone who is repeatedly arrested for criminal behavior (especially for the same criminal behavior),True,True
+autodidact,hard,noun,learner,1.83,True,a person who has taught himself,True,True
+epicure,medium,noun,foodie,1.83,True,a person devoted to refined sensuous enjoyment (especially good food and drink),True,True
+dilatory,hard,adj,slow,1.83,True,wasting time,True,True
+encomium,hard,noun,praise,1.82,True,a formal expression of praise,True,True
+abjure,hard,verb,reject,1.82,True,"formally reject or disavow a formerly held belief, usually under pressure",True,True
+skullduggery,hard,noun,cheating,1.81,True,verbal misrepresentation intended to take advantage of you in some way,False,True
+timorous,medium,adj,fearful,1.81,True,timid by nature or revealing timidity,True,True
+remonstrate,hard,verb,protest,1.81,True,argue in protest or opposition,True,True
+cognoscenti,hard,noun,experts,1.8,False,,False,True
+sagacious,hard,adj,wise,1.8,True,acutely insightful and wise,True,True
+occlude,hard,verb,block,1.8,True,block passage through,True,True
+choleric,hard,adj,angry,1.79,True,easily moved to anger; - H.G.Wells,True,True
+emend,hard,verb,fix,1.79,True,make improvements or corrections to,True,True
+vacillate,medium,verb,waver,1.77,True,be undecided about something; waver between conflicting positions or courses of action,True,True
+fervid,hard,adj,intense,1.77,True,characterized by intense emotion,True,True
+frangible,hard,adj,fragile,1.76,True,capable of being broken,True,True
+punctilious,medium,adj,careful,1.76,True,marked by precise accordance with details,True,True
+munificent,hard,adj,generous,1.76,True,very generous,True,True
+ineluctable,hard,adj,unavoidable,1.75,True,impossible to avoid or evade:,True,True
+abstemious,hard,adj,strict,1.74,True,sparing in consumption of especially food and drink; - John Galsworthy,True,True
+compendious,hard,adj,brief,1.73,True,briefly giving the gist of something,True,True
+torpid,medium,adj,sluggish,1.73,True,slow and apathetic,True,True
+recondite,hard,adj,obscure,1.73,True,difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge,True,True
+vituperative,hard,adj,abusive,1.73,True,marked by harshly abusive criticism,True,True
+impecunious,hard,adj,poor,1.73,True,not having enough money to pay for necessities,True,True
+immolate,hard,verb,burn,1.73,True,offer as a sacrifice by killing or by giving up to destruction,True,True
+lachrymose,hard,adj,tearful,1.72,True,showing sorrow,True,True
+equivocate,hard,verb,hedge,1.72,True,be deliberately ambiguous or unclear in order to mislead or withhold information,True,True
+bifurcate,hard,verb,split,1.72,True,split or divide into two,True,True
+stentorian,hard,adj,loud,1.71,True,used of the voice,True,True
+lassitude,medium,noun,tiredness,1.71,True,a state of comatose torpor (as found in sleeping sickness),True,True
+perspicacious,hard,adj,wise,1.7,True,acutely insightful and wise,True,True
+debilitate,medium,verb,weaken,1.7,True,make weak,True,True
+adduce,hard,verb,cite,1.68,True,advance evidence for,True,True
+noisome,hard,adj,smelly,1.68,True,causing or able to cause nausea,True,True
+grandiloquent,hard,adj,pompous,1.67,True,lofty in style,True,True
+lambaste,medium,verb,scold,1.66,True,beat with a cane,True,True
+legerdemain,hard,noun,trick,1.66,True,an illusory feat; considered magical by naive observers,True,True
+exculpate,hard,verb,free,1.65,True,pronounce not guilty of criminal charges,True,True
+burgeon,medium,verb,grow,1.65,True,grow and flourish,True,True
+xeric,hard,adj,dry,1.65,True,being deficient in moisture,True,True
+prolix,hard,adj,wordy,1.65,True,tediously prolonged or tending to speak or write at great length,True,True
+obstreperous,hard,adj,noisy,1.64,True,noisily and stubbornly defiant,True,True
+excoriate,hard,verb,criticize,1.64,True,express strong disapproval of,True,True
+extirpate,hard,verb,remove,1.64,True,"destroy completely, as if down to the roots",True,True
+insouciant,hard,adj,carefree,1.63,True,marked by blithe unconcern,True,True
+cupidity,hard,noun,greed,1.62,True,extreme greed for material wealth,True,True
+querulous,medium,adj,complaining,1.61,True,habitually complaining,True,True
+pellucid,hard,adj,clear,1.6,True,transmitting light; able to be seen through with clarity,True,True
+prevaricate,hard,verb,lie,1.58,True,be deliberately ambiguous or unclear in order to mislead or withhold information,True,True
+gesticulate,medium,verb,wave,1.58,True,"show, express or direct through movement",True,True
+foible,medium,noun,flaw,1.56,True,a behavioral attribute that is distinctive and peculiar to an individual,True,True
+forfend,hard,verb,prevent,1.56,True,prevent the occurrence of; prevent from happening,True,True
+meretricious,hard,adj,flashy,1.56,True,like or relating to a prostitute,True,True
+effulgent,hard,adj,bright,1.56,True,radiating or as if radiating light,True,True
+efface,hard,verb,erase,1.55,True,remove completely from recognition or memory,True,True
+gainsay,hard,verb,deny,1.54,True,take exception to,True,True
+propitiate,hard,verb,soothe,1.53,True,make peace with,True,True
+viscid,hard,adj,sticky,1.5,True,having the sticky properties of an adhesive,True,True
+suborn,hard,verb,bribe,1.5,True,incite to commit a crime or an evil deed,True,True
+propinquity,hard,noun,closeness,1.48,True,the property of being close together,True,True
+aspersion,hard,noun,insult,1.48,True,a disparaging remark,True,True
+upbraid,medium,verb,scold,1.45,True,express criticism towards,True,True
+tenebrous,hard,adj,dark,1.44,True,dark and gloomy,True,True
+importune,hard,verb,beg,1.43,True,beg persistently and urgently,True,True
+penurious,hard,adj,poor,1.43,True,not having enough money to pay for necessities,True,True
+platitudinous,hard,adj,dull,1.42,True,dull and tiresome but with pretensions of significance or originality,True,True
+improvident,hard,adj,wasteful,1.41,True,not provident; not providing for the future,True,True
+facetiousness,hard,noun,playfulness,1.38,True,playful humor,True,True
+asperity,hard,noun,harshness,1.38,True,something hard to endure,True,True
+desiccate,hard,verb,dry,1.38,True,preserve by removing all water and liquids from,True,True
+jocund,hard,adj,cheerful,1.37,True,full of or showing high-spirited merriment; ; - Wordsworth,True,True
+complaisant,hard,adj,polite,1.36,True,showing a cheerful willingness to do favors for others,True,True
+flummox,medium,verb,confuse,1.34,True,be a mystery or bewildering to,True,True
+vicissitude,hard,noun,change,1.34,True,a variation in circumstances or fortune at different times in your life or in the development of something,True,True
+ossify,hard,verb,harden,1.34,True,become bony,True,True
+palliate,hard,verb,ease,1.33,True,lessen or to try to lessen the seriousness or extent of,True,True
+pulchritudinous,hard,adj,beautiful,1.27,True,used of persons only; having great physical beauty,True,True
+enervate,hard,verb,weaken,1.26,True,weaken mentally or morally,True,True
+perspicuous,hard,adj,clear,1.25,True,(of language) transparently clear; easily understandable; ; ; - Robert Burton,True,True
+eleemosynary,hard,adj,charitable,1.22,True,generous in assistance to the poor,True,True
+discomfit,medium,verb,upset,1.22,True,cause to lose one's composure,True,True
+malinger,medium,verb,pretend,1.18,True,"avoid responsibilities and duties, e.g., by pretending to be ill",True,True
+percipient,hard,adj,aware,1.17,True,a person who becomes aware (of things or events) through the senses,True,True
+expatiate,hard,verb,expand,1.16,True,"add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing",True,True
+comestible,hard,noun,food,1.15,True,any substance that can be used as food,True,True
+ensconce,hard,verb,settle,1.13,True,fix firmly,True,True
+adumbrate,hard,verb,outline,1.07,True,describe roughly or briefly or give the main points or summary of,True,True
+acidulous,hard,adj,sour,1.07,True,being sour to the taste,True,True
+pertinacious,hard,adj,stubborn,1.07,True,stubbornly unyielding; ; ; ; - T.S.Eliot,True,True
+divagate,hard,verb,wander,0.0,True,"lose clarity or turn aside especially from the main subject of attention or course of argument in writing, thinking, or speaking",True,True
+rebarbative,hard,adj,unpleasant,0.0,True,serving or tending to repel,True,True
+coruscate,hard,verb,sparkle,0.0,True,reflect brightly,True,True
+stultify,hard,verb,dull,0.0,True,prove to be of unsound mind or demonstrate someone's incompetence,True,True
+sedulous,hard,adj,diligent,0.0,True,marked by care and persistent effort,True,True
+blandishment,hard,noun,flattery,0.0,True,flattery intended to persuade,True,True

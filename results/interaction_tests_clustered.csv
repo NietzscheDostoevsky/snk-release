@@ -1,0 +1,11 @@
+config,coef,p,level,holm_family
+34-granite4-h_1b,-1.57,5.7e-15,q2,True
+37-LFM2_700m,-0.34,8.4e-02,q2,True
+38-LFM2_1.2b,-0.55,4.7e-03,q2,True
+39-LFM2.5,-0.65,1.3e-02,q2,True
+27-qwen2.5_0.5b,-1.04,2.6e-13,q2,True
+16-llama3.2_1b,-0.55,4.2e-03,q2,True
+26-qwen2.5_1.5b,-1.64,5.4e-15,q2,True
+30-phi4-mini,0.1,6.8e-01,q2,False
+33-granite4-h_350m,-1.24,7.8e-16,q3_M,True
+20-qwen2.5_3b,-1.3,5.3e-08,q3_M,True

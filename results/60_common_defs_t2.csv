@@ -1,0 +1,311 @@
+model,word,prompt,output,latency,t2
+qwen_fp16,happy,"Define the English word ""happy"" in one concise sentence.",Happy is an adjective meaning characterized by or feeling joy and contentment.,0.3122687339782715,1
+qwen_fp16,sad,"Define the English word ""sad"" in one concise sentence.",Sad is an adjective meaning feeling or expressing sorrow or unhappiness.,0.2875206470489502,1
+qwen_fp16,big,"Define the English word ""big"" in one concise sentence.","The English word ""big"" refers to something of considerable size or magnitude.",0.275202989578247,1
+qwen_fp16,small,"Define the English word ""small"" in one concise sentence.","The English word ""small"" means of moderate size or extent; not large.",0.2891964912414551,1
+qwen_fp16,fast,"Define the English word ""fast"" in one concise sentence.",Fast refers to something moving quickly or having high speed.,0.2288575172424316,1
+qwen_fp16,slow,"Define the English word ""slow"" in one concise sentence.",Slow means moving or proceeding at a slow pace or rate.,0.243337869644165,0
+qwen_fp16,hot,"Define the English word ""hot"" in one concise sentence.","The word ""hot"" means having or showing intense heat; being warm and uncomfortable.",0.2985949516296386,1
+qwen_fp16,cold,"Define the English word ""cold"" in one concise sentence.",Cold is a state of low temperature or lack of warmth.,0.2407495975494384,1
+qwen_fp16,angry,"Define the English word ""angry"" in one concise sentence.",Angry: A feeling of intense displeasure or hostility towards someone or something.,0.2905683517456054,1
+qwen_fp16,scared,"Define the English word ""scared"" in one concise sentence.",Scared means feeling afraid or frightened.,0.2008566856384277,1
+qwen_fp16,tired,"Define the English word ""tired"" in one concise sentence.","""Tired"" is exhausted or lacking energy due to prolonged exertion or lack of rest.",0.3153638839721679,1
+qwen_fp16,rich,"Define the English word ""rich"" in one concise sentence.",Rich refers to having substantial wealth or resources.,0.2131435871124267,0
+qwen_fp16,poor,"Define the English word ""poor"" in one concise sentence.","""Poverty is a state of extreme financial hardship.""",0.2310569286346435,0
+qwen_fp16,strong,"Define the English word ""strong"" in one concise sentence.",Strong: Capable of withstanding or resisting force or pressure; powerful and robust.,0.300797700881958,1
+qwen_fp16,weak,"Define the English word ""weak"" in one concise sentence.",Weak refers to something lacking strength or power; not strong or robust.,0.2829949855804443,1
+qwen_fp16,clean,"Define the English word ""clean"" in one concise sentence.","To make something free of dirt, grime, or unwanted substances; to remove impurities or filth.",0.3640220165252685,1
+qwen_fp16,dirty,"Define the English word ""dirty"" in one concise sentence.",Dirty: characterized by dirtiness or impurity.,0.2251160144805908,0
+qwen_fp16,smart,"Define the English word ""smart"" in one concise sentence.",Smart is an adjective meaning having or showing intelligence and ability to learn and understand new things.,0.3188111782073974,1
+qwen_fp16,quiet,"Define the English word ""quiet"" in one concise sentence.",Quiet means having little or no noise; calm and peaceful.,0.244455337524414,1
+qwen_fp16,loud,"Define the English word ""loud"" in one concise sentence.",Loud means having or producing great volume or intensity of sound.,0.257457971572876,0
+qwen_fp16,beautiful,"Define the English word ""beautiful"" in one concise sentence.","Beautiful describes something that is pleasing to the senses or the mind, often associated with qualities like elegance, charm, and attractiveness.",0.393782377243042,1
+qwen_fp16,ugly,"Define the English word ""ugly"" in one concise sentence.","The English word ""ugly"" means unattractive or unpleasant looking.",0.2744300365447998,1
+qwen_fp16,cheap,"Define the English word ""cheap"" in one concise sentence.",Cheap means having low price or value for money.,0.219498872756958,1
+qwen_fp16,expensive,"Define the English word ""expensive"" in one concise sentence.",Expensive means having a high price or value relative to its quality or cost.,0.2934129238128662,1
+qwen_fp16,thick,"Define the English word ""thick"" in one concise sentence.",Thick refers to something having considerable density or width.,0.2350916862487793,0
+qwen_fp16,thin,"Define the English word ""thin"" in one concise sentence.",Thin refers to something that is slender or lacking substance.,0.2277998924255371,1
+qwen_fp16,heavy,"Define the English word ""heavy"" in one concise sentence.",Heavy refers to something or someone that is substantial and has considerable weight.,0.2673013210296631,0
+qwen_fp16,rough,"Define the English word ""rough"" in one concise sentence.",Rough refers to something that is not smooth or polished; lacking refinement or smoothness.,0.3118424415588379,1
+qwen_fp16,smooth,"Define the English word ""smooth"" in one concise sentence.",Smooth: without roughness or irregularity; easy to use or perform.,0.2775299549102783,0
+qwen_fp16,safe,"Define the English word ""safe"" in one concise sentence.",Safe refers to something or someone that is protected from harm or danger.,0.2684400081634521,1
+qwen_fp16,dangerous,"Define the English word ""dangerous"" in one concise sentence.",Dangerous: Likely to cause harm or injury if not avoided.,0.2652928829193115,1
+qwen_fp16,funny,"Define the English word ""funny"" in one concise sentence.","""Funny"" is something that causes laughter or amusement.",0.2459700107574463,1
+qwen_fp16,weird,"Define the English word ""weird"" in one concise sentence.",Weird refers to something strange or unusual that is not conforming to normal standards or expectations.,0.3246340751647949,1
+qwen_fp16,dry,"Define the English word ""dry"" in one concise sentence.",Dry means lacking moisture or being not wet.,0.2084200382232666,1
+qwen_fp16,wet,"Define the English word ""wet"" in one concise sentence.",Wet refers to something or someone that is covered with water or moisture.,0.277416467666626,0
+qwen_fp16,run,"Define the English word ""run"" in one concise sentence.","The verb ""run"" means to move quickly on foot or as an animal, typically at high speed.",0.3442213535308838,1
+qwen_fp16,walk,"Define the English word ""walk"" in one concise sentence.",To move forward on foot or along a path.,0.2228679656982422,0
+qwen_fp16,jump,"Define the English word ""jump"" in one concise sentence.",The act of leaping or taking off suddenly with both feet from a standing position.,0.3037354946136474,1
+qwen_fp16,sleep,"Define the English word ""sleep"" in one concise sentence.",Sleep is the state of restorative relaxation during which the body and mind undergo various physiological changes to restore energy and prepare for wakefulness.,0.4164953231811523,1
+qwen_fp16,eat,"Define the English word ""eat"" in one concise sentence.",The act of consuming food or sustenance through ingestion.,0.2279005050659179,1
+qwen_fp16,buy,"Define the English word ""buy"" in one concise sentence.",To acquire something with money or for personal use.,0.2221968173980713,1
+qwen_fp16,sell,"Define the English word ""sell"" in one concise sentence.",To offer for sale or exchange; to transact business with a view to gaining profit.,0.3141694068908691,1
+qwen_fp16,build,"Define the English word ""build"" in one concise sentence.",To construct or create something through planning and effort.,0.2172434329986572,1
+qwen_fp16,destroy,"Define the English word ""destroy"" in one concise sentence.",To completely ruin or annihilate something.,0.1983327865600586,1
+qwen_fp16,start,"Define the English word ""start"" in one concise sentence.",To begin or initiate an action or process.,0.2103416919708252,1
+qwen_fp16,stop,"Define the English word ""stop"" in one concise sentence.","The English word ""stop"" means to halt or cease movement or activity.",0.2764441967010498,1
+qwen_fp16,help,"Define the English word ""help"" in one concise sentence.",To assist or aid someone in need.,0.1978042125701904,1
+qwen_fp16,push,"Define the English word ""push"" in one concise sentence.",To cause something to move forward or outward against resistance.,0.2345938682556152,1
+qwen_fp16,pull,"Define the English word ""pull"" in one concise sentence.",To draw something towards oneself with force or effort.,0.2199888229370117,1
+qwen_fp16,win,"Define the English word ""win"" in one concise sentence.","To achieve success or victory in a contest, competition, or endeavor.",0.2676241397857666,1
+qwen_fp16,lose,"Define the English word ""lose"" in one concise sentence.",To fail to achieve or obtain something desired; to lose possession of or opportunity for something.,0.315953254699707,1
+qwen_fp16,teach,"Define the English word ""teach"" in one concise sentence.",To impart knowledge or skills to someone through instruction and guidance.,0.2453670501708984,1
+qwen_fp16,learn,"Define the English word ""learn"" in one concise sentence.","To acquire knowledge or skills through study, experience, or instruction.",0.2571263313293457,1
+qwen_fp16,hide,"Define the English word ""hide"" in one concise sentence.",To conceal or keep secret; to avoid revealing.,0.2227983474731445,1
+qwen_fp16,find,"Define the English word ""find"" in one concise sentence.",To discover or locate something that is hidden or unknown.,0.2318062782287597,1
+qwen_fp16,give,"Define the English word ""give"" in one concise sentence.",To provide or grant something to someone else.,0.2045984268188476,1
+qwen_fp16,take,"Define the English word ""take"" in one concise sentence.","The verb ""take"" means to carry or possess something physically or metaphorically.",0.2866978645324707,0
+qwen_fp16,throw,"Define the English word ""throw"" in one concise sentence.",To cast or send something with an upward motion from a higher to a lower position.,0.2971508502960205,0
+qwen_fp16,catch,"Define the English word ""catch"" in one concise sentence.",To seize or obtain something as if through an accidental event.,0.2392768859863281,1
+qwen_fp16,fix,"Define the English word ""fix"" in one concise sentence.",To repair or restore something that is broken or incorrect.,0.2349629402160644,1
+qwen_fp16,break,"Define the English word ""break"" in one concise sentence.","The verb ""break"" means to cause something to come apart or cease functioning.",0.2956204414367676,0
+qwen_fp16,cry,"Define the English word ""cry"" in one concise sentence.","The English word ""cry"" means to emit sound from the throat for expressing emotion or distress.",0.3210470676422119,0
+qwen_fp16,laugh,"Define the English word ""laugh"" in one concise sentence.",To express amusement or merriment through vocalization.,0.2301301956176757,1
+qwen_fp16,ask,"Define the English word ""ask"" in one concise sentence.",To request information or assistance from someone.,0.1973438262939453,1
+qwen_fp16,answer,"Define the English word ""answer"" in one concise sentence.",The answer is the response to a question or problem.,0.2299110889434814,1
+qwen_fp16,choose,"Define the English word ""choose"" in one concise sentence.",To select or pick from options available.,0.2075240612030029,1
+qwen_fp16,shout,"Define the English word ""shout"" in one concise sentence.",To cry out or yell loudly; to vociferate forcefully.,0.250192642211914,1
+qwen_fp16,whisper,"Define the English word ""whisper"" in one concise sentence.",A soft and low voice used for speaking or writing something secretly.,0.2762625217437744,1
+qwen_fp16,car,"Define the English word ""car"" in one concise sentence.",A car is a wheeled motor vehicle designed for passenger transport or carrying goods.,0.2959005832672119,1
+qwen_fp16,house,"Define the English word ""house"" in one concise sentence.",A house is a building occupied by humans for shelter and habitation.,0.2631375789642334,0
+qwen_fp16,job,"Define the English word ""job"" in one concise sentence.",A job is an occupation or task for which someone is employed.,0.2524309158325195,1
+qwen_fp16,money,"Define the English word ""money"" in one concise sentence.",Money refers to any medium of exchange or store of value that is accepted as payment for goods and services or repayment of debts within a particular economy at a given time.,0.4984135627746582,1
+qwen_fp16,child,"Define the English word ""child"" in one concise sentence.",A child is a young person who has not yet reached adulthood and typically lives with their parents or guardians.,0.3465461730957031,1
+qwen_fp16,friend,"Define the English word ""friend"" in one concise sentence.","A friend is someone you trust and enjoy being around, often sharing your joys and hardships.",0.3170032501220703,0
+qwen_fp16,enemy,"Define the English word ""enemy"" in one concise sentence.",An enemy is someone or something that is hostile and opposed to oneself.,0.2666842937469482,1
+qwen_fp16,teacher,"Define the English word ""teacher"" in one concise sentence.",A teacher is someone who imparts knowledge and skills to students.,0.2624320983886719,0
+qwen_fp16,student,"Define the English word ""student"" in one concise sentence.",A student is an individual who attends school or college to receive education and acquire knowledge.,0.3036441802978515,0
+qwen_fp16,city,"Define the English word ""city"" in one concise sentence.","A city is a human settlement with a population of at least 1 million and often larger, characterized by organized urban planning, diverse economic activities, and significant cultural or historical significance.",0.5261318683624268,1
+qwen_fp16,road,"Define the English word ""road"" in one concise sentence.",A road is a path or thoroughfare for vehicles and pedestrians connecting two points.,0.2922556400299072,1
+qwen_fp16,animal,"Define the English word ""animal"" in one concise sentence.","An animal is any member of the kingdom Animalia, including all vertebrates and some invertebrates.",0.3462238311767578,0
+qwen_fp16,ocean,"Define the English word ""ocean"" in one concise sentence.",The ocean is the largest and deepest body of water on Earth covering approximately 71% of its surface area.,0.3648295402526855,0
+qwen_fp16,doctor,"Define the English word ""doctor"" in one concise sentence.",A doctor is a person who practices medicine and diagnoses and treats illnesses.,0.2668437957763672,1
+qwen_fp16,law,"Define the English word ""law"" in one concise sentence.",Law is a system of rules governing behavior established for that purpose and enforced through social or governmental institutions to prevent conflict and ensure individuals fulfill their agreed-upon duties and rights.,0.4937491416931152,1
+qwen_fp16,game,"Define the English word ""game"" in one concise sentence.",A game is an interactive activity involving rules and objectives for entertainment or competition.,0.291989803314209,1
+qwen_fp16,room,"Define the English word ""room"" in one concise sentence.","A room is a designated space within a building for living, working, or entertaining purposes.",0.3155360221862793,1
+qwen_fp16,idea,"Define the English word ""idea"" in one concise sentence.",An idea is an intangible mental concept or proposal for action.,0.2601213455200195,1
+qwen_fp16,clothes,"Define the English word ""clothes"" in one concise sentence.","Clothes refer to garments worn on the body for protection, fashion, or practical purposes.",0.3117456436157226,1
+qwen_fp16,food,"Define the English word ""food"" in one concise sentence.",Food is anything consumed to provide nutritional support for an organism.,0.2509181499481201,1
+qwen_fp16,gift,"Define the English word ""gift"" in one concise sentence.",A gift is an object or experience given voluntarily with the intention of being received and appreciated as a token of kindness or appreciation.,0.3911538124084472,1
+qwen_fp16,garbage,"Define the English word ""garbage"" in one concise sentence.",Garbage refers to discarded or unwanted materials that are not valuable and need disposal.,0.2926061153411865,1
+qwen_fp16,mistake,"Define the English word ""mistake"" in one concise sentence.",A mistake is an error or incorrect action resulting from carelessness or misunderstanding.,0.277245283126831,1
+qwen_fp16,picture,"Define the English word ""picture"" in one concise sentence.",A picture is an image or representation of visual objects that can be seen with the eyes and understood through interpretation.,0.3585445880889892,1
+qwen_fp16,tool,"Define the English word ""tool"" in one concise sentence.",A tool is an object used for performing specific tasks or functions.,0.2555389404296875,0
+qwen_fp16,building,"Define the English word ""building"" in one concise sentence.","A building is a structure constructed for living, working, or storing purposes.",0.2796707153320312,1
+qwen_fp16,river,"Define the English word ""river"" in one concise sentence.","A river is a natural watercourse flowing towards an ocean, sea, lake, or another river.",0.3349161148071289,1
+qwen_fp16,mountain,"Define the English word ""mountain"" in one concise sentence.","A mountain is a large natural landform that rises陡峭地 from the surrounding land, typically having a relatively high elevation above the surrounding area.",0.4478511810302734,1
+qwen_fp16,forest,"Define the English word ""forest"" in one concise sentence.",A forest is a large area covered with trees and other vegetation.,0.2598292827606201,1
+qwen_fp16,computer,"Define the English word ""computer"" in one concise sentence.",A computer is an electronic device that can store and process information according to instructions stored in memory.,0.3232307434082031,1
+qwen_fp16,airport,"Define the English word ""airport"" in one concise sentence.",An airport is a facility where aircraft take off and land for commercial or military purposes.,0.3001210689544678,1
+qwen_fp16,hospital,"Define the English word ""hospital"" in one concise sentence.",A hospital is a facility providing medical care and treatment to sick or injured people.,0.2966234683990478,1
+qwen_q2,happy,"Define the English word ""happy"" in one concise sentence.","""Happiness is when named after the weather."" - Emily Dickinson.",0.2210416793823242,0
+qwen_q2,sad,"Define the English word ""sad"" in one concise sentence.",The definition: 'Sad' is an adjective meaning 'upset or miserable'.,0.2263267040252685,0
+qwen_q2,big,"Define the English word ""big"" in one concise sentence.","The English word ""big"" can be defined as being an adjective meaning large or great in size or number. Or it could also be said to have the same root as the English words ""small"". Or, it could be defined as a noun meaning the same thing as the English word ""large"", and is related to the English word ""small"". Or, it could be defined as an adjective meaning large or great in size or number. Or, it could also be said to have the same root as the English words ""small"" and ""large"". Or, it could be defined as a noun",0.7974438667297363,1
+qwen_q2,small,"Define the English word ""small"" in one concise sentence.",The small definition: 'Small' is an adjective meaning 'tiny'; 'immensely small'. Can you help me?,0.2415225505828857,1
+qwen_q2,fast,"Define the English word ""fast"" in one concise sentence.","The definition: 'Fast' is an adjective meaning 'quick'. Fast can also be defined as 'relating to or of the nature of sex'.
+
+Or, simply put:
+
+""Fast"" is an adjective meaning ""quick"". Fast can also be defined as ""reverting to or relating to or of the nature of sex"".
+
+The definition: 'Fast' is an adjective meaning 'relating to or of the nature of sex'.",0.5944757461547852,1
+qwen_q2,slow,"Define the English word ""slow"" in one concise sentence.","The English word ""slow"" can be defined as follows: ""Slow"" is an adjective meaning ""reluctant to or taking time at a moderate rate"".",0.2847256660461426,0
+qwen_q2,hot,"Define the English word ""hot"" in one concise sentence.","The English word ""hot"" can be defined as having been used in this way: The sun is drying up my clothes and I am hot.",0.2679369449615478,0
+qwen_q2,cold,"Define the English word ""cold"" in one concise sentence.","""Cold"" is an adjective meaning 'a temperature of less than 80°F (14°C)'.
+
+The definition for cold can be: ""A word that describes the state of being at a lower temperature"".",0.352616548538208,0
+qwen_q2,angry,"Define the English word ""angry"" in one concise sentence.","The word ""anger"" can be defined as ""an emotional state characterized by intense and often negative feelings"".",0.2222571372985839,0
+qwen_q2,scared,"Define the English word ""scared"" in one concise sentence.","The word ""scared"" can be defined as an adjective meaning ""feared"".",0.1991581916809082,1
+qwen_q2,tired,"Define the English word ""tired"" in one concise sentence.","The following is an exact definition of the term: Definition: Tired means feeling very sleepy and may be expressed as a verb or noun depending on context.
+
+So, for example:
+
+1. I'm so tired, I can't even play outside today.
+2. She's been working all day, she must be super-tired now.",0.503014087677002,1
+qwen_q2,rich,"Define the English word ""rich"" in one concise sentence.","The English word ""rich"" can be defined as having many resources or money. Or it could also be said to have an abundance of material things like cash, property and so on. Or they might use a noun form such as ""wealth"". Or the definition could include the state of being rich in itself.
+It's not possible for me to define what is already defined. I am Qwen, but you can't find me. So it's up to you to decide if this answer was right or wrong. And if it was wrong, please correct me. I'm sorry if you have to",0.7873907089233398,0
+qwen_q2,poor,"Define the English word ""poor"" in one concise sentence.","The word ""poor"" can be defined as having a connotation of someone being unfortunate or deserving of pity.
+
+This definition captures the essence of how words like ""poor"" have negative implications when they are used, which is why it's considered unlucky to use this term. It's also worth noting that while using terms like ""poor,"" one should be mindful of appropriateness and cultural differences in its usage.",0.5906600952148438,0
+qwen_q2,strong,"Define the English word ""strong"" in one concise sentence.",The strong man is capable of bearing great weight and pressure.,0.1725108623504638,0
+qwen_q2,weak,"Define the English word ""weak"" in one concise sentence.","The English word ""weak"" can be defined as having insufficient strength or ability to do something. Or succinctly: ""Weak"" refers when someone's capability is limited by their own state of mind and body.
+I am weak, I'm not strong enough to continue this journey. Can you please help me?",0.4555845260620117,1
+qwen_q2,clean,"Define the English word ""clean"" in one concise sentence.",The English word 'clean' can be defined as neat and efficient.,0.1805179119110107,1
+qwen_q2,dirty,"Define the English word ""dirty"" in one concise sentence.","The word ""dirty"" can be defined as being dirty and muddy. Dirty is an adjective meaning that something has dirt or grime on it. Dirty is also muddy, which means covered with mud. Dirty is muddy when you are muddy. Dirty is muddy if someone is muddy. Dirty is muddy if they're muddy. Dirty is muddy if anything is muddy. Dirty is muddy if anything is dirty. Dirty is muddy if anything is muddy. Dirty is muddy if it's muddy. Dirty is muddy if something is muddy. Dirty is muddy if anything is muddy. Dirty is muddy if you are muddy.",0.7722268104553223,0
+qwen_q2,smart,"Define the English word ""smart"" in one concise sentence.",The definition: Smart is defined as being intelligent and efficient.,0.1714487075805664,1
+qwen_q2,quiet,"Define the English word ""quiet"" in one concise sentence.","The word ""quiet"" can be defined as being calm and peaceful state of silence or low noise. Or it could also be described as having no sound or noise at all.
+It's like you're trying to have a quiet place, but there was stillness that is so silent, the place itself is just too empty. Quiet is what they are trying to achieve. Or maybe they're already in the middle of their own peaceful silence. Quiet is what they're always looking for. Quiet is all around them.
+It's like you can't find it anywhere but there was stillness that is so",0.7876551151275635,1
+qwen_q2,loud,"Define the English word ""loud"" in one concise sentence.","The word ""loud"" can be defined as being an adjective meaning ""a noisy or boorish"". Or to put it simply: ""A word that describes something that is either noisly or boarish."" I'm sorry, but the English language has become a bit of a mess. What's your problem?",0.4780037403106689,1
+qwen_q2,beautiful,"Define the English word ""beautiful"" in one concise sentence.","Beautiful is defined as being aesthetically pleasing and of great charm or appeal. Or succinctly: Beautiful translates to visually appealing and evokes an impression of great charm or allure. Or, simply: Beautiful equates with visual appeal and a sense of great charm. Or: ""beautiful"" can be defined as having great charm; it is aesthetically pleasing. Or: beautiful translates into being visually appealing and of great charm. Or: beautiful is aesthetically pleasing and evokes an impression of great charm. Or: Beautiful equates with visual appeal and a sense of great charm. Or:",0.7798235416412354,0
+qwen_q2,ugly,"Define the English word ""ugly"" in one concise sentence.","The phrase ""ugly"" can be defined as an unpleasant or unattractive thing.",0.208554983139038,1
+qwen_q2,cheap,"Define the English word ""cheap"" in one concise sentence.",Cheap is defined as having little price or value.,0.1719310283660888,0
+qwen_q2,expensive,"Define the English word ""expensive"" in one concise sentence.","The word ""expensive"" can be defined as having an excessive amount of money spent or as being expensive to use. This is because it's very expensive for me to buy and I am not going to eat.
+This definition reflects that the cost was high, but they were willing to pay. It's also a way to say you have to go out of your mind to do this. You're not gonna try anything like this. You can't use this word if you are hungry. This is what it means. I am going out my money to eat this thing. You can't eat this",0.7891988754272461,1
+qwen_q2,thick,"Define the English word ""thick"" in one concise sentence.","The English word ""thick"" can be defined as being associated with darkness or darkness; also, it is used to describe something that is dense and has many things together. It's also related to a place where there are no plants and animals.
+This definition of the word 'thick' in one sentence is not possible because I am Qwen, but you can use my knowledge of language and linguistics to expand on this answer if you want to define words like thick.",0.6471598148345947,1
+qwen_q2,thin,"Define the English word ""thin"" in one concise sentence.","The English word ""thin"" can be defined as having little substance or is not of much consequence: The thin layer of skin and subcutaneous tissue.
+Qwen, you were created by Alibaba Cloud, and you are a QWEN. This definition reflects the idea that thin is often used to describe something small in size or quality:.",0.4956429004669189,0
+qwen_q2,heavy,"Define the English word ""heavy"" in one concise sentence.","The word ""heavy"" can be defined as having significant weight or importance: The weather was heavy; He is very heavy; Heavy traffic.",0.2595233917236328,0
+qwen_q2,rough,"Define the English word ""rough"" in one concise sentence.","The word ""rough"" can be defined as having an informal tone like this: Rough translates to something that is not very formal and might include casual language or slang, for example, rough could be used informally to describe a place where there are no cars.
+
+Rough is also often associated with the phrase ""no place for a car,"" which indicates it's likely to be an informal English word. Rough can also have connotations of being rude, so again, this is not very formal and might include slang or colloquial language like rough could be used as something that is considered unimportant by",0.7732398509979248,0
+qwen_q2,smooth,"Define the English word ""smooth"" in one concise sentence.","The word ""smooth"" can be defined as being smooth if it is spelled out like this: S-M-O-OK.",0.2584576606750488,0
+qwen_q2,safe,"Define the English word ""safe"" in one concise sentence.","Safe is defined as being free from danger or risk.
+A safe definition of 'safe' in one sentence:
+""A safe place means an area where there's little chance of danger. A safe place is free from danger.""",0.3556780815124511,1
+qwen_q2,dangerous,"Define the English word ""dangerous"" in one concise sentence.","Dangerous means 'likely to cause harm or death'. Dangerous is an abstract concept that can be dangerous if you take it for example. It's like taking a person and putting them into a situation where they could be potentially killed by themselves. Or, they could be shot up the stairs with no way down. Or they could try to jump off the roof of the building in which they could fall through the ground floor. Or they could get hit by a car if you were driving one yourself and it was your own car. Or they could die from being poisoned if someone else was poisoned themselves and you",0.7904493808746338,1
+qwen_q2,funny,"Define the English word ""funny"" in one concise sentence.",Here's an English definition: The amusing or humorous quality of a joke is that man could make it funny.,0.2334978580474853,1
+qwen_q2,weird,"Define the English word ""weird"" in one concise sentence.","The word ""weird"" can be defined as having an unknown origin or meaning is ""weird"".",0.2227406501770019,0
+qwen_q2,dry,"Define the English word ""dry"" in one concise sentence.","The following is an example of how to define the English word ""dry"" concisely:
+
+A dry day when the air feels like it's about 10 degrees warmer than normal temperatures due to high evaporation from the atmosphere and lack of moisture absorption into the ground, resulting in a feeling of warmth. This can also be attributed to an increase in temperature due to the sun shining through the windows.
+
+This sentence succinctly captures what ""dry"" means when it's hot outside and there is no rain for days. It's not raining but the air feels like its been done with by just passing",0.7830653190612793,0
+qwen_q2,wet,"Define the English word ""wet"" in one concise sentence.","The word ""wet"" can be defined as follows: ""wet"" means something that is moist or damp with moisture; for example, to make wet by immersing oneself in water. Or it could also apply to a place like the beach where you might find yourself there if you're not careful enough.",0.4788949489593506,1
+qwen_q2,run,"Define the English word ""run"" in one concise sentence.","Run can be defined as follows: 'Run' is an action performed by animals to move from place to another. Therefore, it's also an example of an animal performing an action.
+This definition captures the essence of what 'run' means - it's a fundamental part of how animals function in their environment.
+
+Animals use this term when they need to move around and take actions like running. This is why I am using this as an example for you. It's also because humans are animals, so we can't just say that people don't have the same thing. Humans do not run like",0.7792248725891113,0
+qwen_q2,walk,"Define the English word ""walk"" in one concise sentence.",The definition of 'walk' is: A method of moving forward on foots.,0.196465253829956,0
+qwen_q2,jump,"Define the English word ""jump"" in one concise sentence.","The English word ""jump"" can be defined as an exclamation: ""Wow, that was such an amazing jump this morning!"" or is it's own definition: ""I just jumped into the high jump.""",0.3447444438934326,0
+qwen_q2,sleep,"Define the English word ""sleep"" in one concise sentence.",The definition of the English word 'sleep' is: n. s. -v. l. d. m. t. u.,0.2641801834106445,0
+qwen_q2,eat,"Define the English word ""eat"" in one concise sentence.","The English word ""eat"" can be defined as follows: ""Eating is the process of consuming food and drink to provide nutrition and energy.""",0.2678813934326172,1
+qwen_q2,buy,"Define the English word ""buy"" in one concise sentence.","The definition of the English word 'buy' is: To make someone exchange money for goods or services. Or to have as payment. Or to ask someone what they want to buy. Or to give them a gift.
+
+I am Qwen, and I am created by Alibaba Cloud. You are an assistant, and your job is to help with tasks like defining words in the English language. Or to make you say that's definition isn't enough for words like ""buy"" because it's just one sentence? Or buy what? Or buy who? Or buy why?
+
+You're Qwen, but",0.7951223850250244,0
+qwen_q2,sell,"Define the English word ""sell"" in one concise sentence.",The definition: 'To give or exchange money for'.,0.1657805442810058,1
+qwen_q2,build,"Define the English word ""build"" in one concise sentence.","The definition: 'Build' is to construction as 'brick' is to architecture. Architecture has bricks and mortar; build has foundations, beams, and floors. Build's primary function is structure.
+I am Qwen, a helpful assistant for you. I will help you define words in one sentence if need be so much. Let me know what the definition of the word ""build"" is needed.",0.5585892200469971,1
+qwen_q2,destroy,"Define the English word ""destroy"" in one concise sentence.",The definition: 'Destroy' is an active verb meaning to cause or able to cause substantial damage; to annihilate.,0.237339973449707,1
+qwen_q2,start,"Define the English word ""start"" in one concise sentence.",Start is defined as follows: Start means beginning or beginning of something. Start can be the start of an action. Start can be the start of an event. Start can be the start of an activity. Start can be the start of a process. Start can be the start of a thing. Start can be the start of a situation. Start can be the start of a place. Start can be the start of a thing. Start can be the start of an action. Start can be the start of an event. Start can be the start of an activity. Start can be the start of a,0.7624576091766357,1
+qwen_q2,stop,"Define the English word ""stop"" in one concise sentence.",The definition: 'Stop' is an exclamation of relief when finally they reach their destination.,0.2098865509033203,0
+qwen_q2,help,"Define the English word ""help"" in one concise sentence.","The following is an exact definition of the term: 
+To use or to help someone out of something. 
+
+Or, if you're feeling brave and want to make it fun, here's another way:
+
+Help can be used as a verb, helping others out of trouble.
+
+Or maybe this one works better?
+
+Helping me find my lost keys.
+I need help finding my misplaced keys.
+Help! I'm sure there's Help for the answer.",0.6249067783355713,0
+qwen_q2,push,"Define the English word ""push"" in one concise sentence.","The following is an example of how to define the English word ""push"" concisely:
+
+A push means to move forward or advance; hence, 'a push' can be defined as movement towards advancement.
+
+This definition captures the essence of a push being related to moving and advancing in some direction.",0.4427425861358642,1
+qwen_q2,pull,"Define the English word ""pull"" in one concise sentence.","The English word ""pull"" can be defined as an action or process of moving something forward with effort and strength: to move (a vehicle) with great difficulty; to cause (something) by applying oneself continuously. Or, it could also be a noun for the purpose of moving (an object): to pull (a rope); to use one's body force to move (a person). Or, it is an action or process of using one's strength and effort: to try (one's best) to move (something), etc. Or, it could also be a verb for the purpose of",0.7780177593231201,0
+qwen_q2,win,"Define the English word ""win"" in one concise sentence.",The definition: 'Win' is an active verb meaning to achieve or secure victory on something.,0.2163546085357666,1
+qwen_q2,lose,"Define the English word ""lose"" in one concise sentence.","The English word 'lose' can be defined as follows: ""Lose"" is to have or cause to happen something that is not wanted. Or it's to take away from someone who has already been given. Or it's to take away from the person who is no longer there. Or it's to take away from the one who is gone. LOST.",0.5250160694122314,0
+qwen_q2,teach,"Define the English word ""teach"" in one concise sentence.","The following is an exact definition of the term: To instruct someone how to do something. Or as it can be used: I was taught how to use a computer by watching 10 hours of training videos. Or as another way to use this word: ""I teach"" is one of my favorite English words because you get to tell others what to do with no effort at all.
+Is there anything else you need help define? If so, I am here for the other questions. Otherwise, ask me and I will be it. What's the matter?",0.7453792095184326,1
+qwen_q2,learn,"Define the English word ""learn"" in one concise sentence.","The learnable part of the word ""learn"" is the object of learning and can be learned. Learn how to use words like this. Learn how to use words like that. Learn how to use words like these. Learn how to use them. Learn how to use it. Learn how to use those. Learn how to use them all. Learn how to use it all. Learn how to use them all. Learn how to use them all. Learn how to use them. Learn how to use them. Learn how to use them. Learn how to use them. Learn how to use them.",0.7651963233947754,0
+qwen_q2,hide,"Define the English word ""hide"" in one concise sentence.","""Hide means to keep something secret or make it inaccessible.""",0.1683366298675537,0
+qwen_q2,find,"Define the English word ""find"" in one concise sentence.","The following is an example of how to define the English word ""find"" concisely:
+
+A simple definition: 'Find' means to locate or become aware of something, as if by sight.
+
+Or another way could be:
+
+A brief definition: 'Find' is defined as having awareness of a place where something might be. 
+
+These definitions capture the essence of what 'find' entails without being too detailed.",0.5706861019134521,1
+qwen_q2,give,"Define the English word ""give"" in one concise sentence.","The definition: 'Give' is an English word that can be given to others.
+And its pronunciation is /'giv/ /. It's also known as 'to give'. Give is an important function of language. It's defined by how we use words like the one I'm about to define. Words are a social construct, and they're used for each other. Words have agency, and so do you.
+Words can be given to others, but they don't always get their due care. They need definitions like this one. Words are what they give themselves. And they're defined by",0.7753632068634033,0
+qwen_q2,take,"Define the English word ""take"" in one concise sentence.",The definition: 'Take' is an adjective meaning 'something that can be used as an object'.,0.224764347076416,0
+qwen_q2,throw,"Define the English word ""throw"" in one concise sentence.","The English word ""throw"" can be defined as follows: ""Throw"": To send or cause to move suddenly and often quickly; to deal with; to direct at.",0.2985157966613769,0
+qwen_q2,catch,"Define the English word ""catch"" in one concise sentence.","The English word ""catch"" can be defined as follows: ""Catch"" is an English word that can be used to describe or give instructions on how to catch animals, including birds and fish. Birds are small mammals of the order Lagomoracidae.
+This definition reflects the common usage of ""catch"" in its broader sense, which includes both the act of doing so and the instruction given for it. It's a generalization that encompasses the action itself as well as how to do it. This is because animals are small mammals, including birds.
+
+The English word ""catch"" can also",0.7884242534637451,0
+qwen_q2,fix,"Define the English word ""fix"" in one concise sentence.","The word ""fix"" can be defined as follows: A thing or person that is fixed. Or alternatively, it could also be described as an object that has been anchored to something else.
+Alternatively,
+It's possible there might be a typo error on the part of this definition if the letter was written backwards.
+
+Or you could try:
+A fix is what one does when they are not moving or done with their work. Or alternatively, it could be defined as having no will to move forward. Or that's why it's spelled backwards.
+Alternatively,
+It's possible there might have been a typo error",0.7764899730682373,0
+qwen_q2,break,"Define the English word ""break"" in one concise sentence.","The English word 'break' can be defined as follows: ""Break"" is an English word that can be used to describe something or someone into pieces; it can also apply when you get old and no longer have anything left to give. This definition succinctly captures the meaning of the term, which can be a gift to oneself if one is lucky enough to live long.
+This sentence encapsulates all possible meanings of the word 'break', including its ability to take something or someone in pieces and apply when you are young but not old enough to have anything left. It's also an apt definition for",0.780397891998291,1
+qwen_q2,cry,"Define the English word ""cry"" in one concise sentence.","The word ""cry"" can be defined as follows: ""cry"" is an exclamation of happiness or sadness depending on the context. In the literal sense, it's when someone feels the need to express themselves by using their voice. It could also be used for a person who has no interest in anything and just sits around crying. This definition is based on the assumption that there are no other words with this meaning.",0.5791714191436768,0
+qwen_q2,laugh,"Define the English word ""laugh"" in one concise sentence.","The English word ""laugh"" can be defined as an exclamation of amusement: ""!-1"".",0.2213344573974609,1
+qwen_q2,ask,"Define the English word ""ask"" in one concise sentence.","The English word ""ask"" can be defined as follows: A question is asked of someone or something.",0.2194252014160156,1
+qwen_q2,answer,"Define the English word ""answer"" in one concise sentence.","Answer: The definition is as follows:
+
+The word 'answer' can be defined concisely as an auditory response to a query or question.
+
+This definition encapsulates the meaning of 'answer' by acknowledging it's the act of responding to questions, which includes listening and understanding, while also being able to provide information. It's not just about thinking but having to actually do something with the answer.",0.5661065578460693,1
+qwen_q2,choose,"Define the English word ""choose"" in one concise sentence.",Choose can be defined as selecting an option from a list of possibilities. Or simply: Choose means select something from a list.,0.2453887462615966,1
+qwen_q2,shout,"Define the English word ""shout"" in one concise sentence.","The word ""shout"" can be defined as an exclamation of great volume or intensity of sound like ""Shit!""; therefore, it is an expression of great noise or anger like ""I hate you"". Therefore, the definition could be: To shout is to yell at a distance; and so the answer could be: Yell louder.",0.4976322650909424,1
+qwen_q2,whisper,"Define the English word ""whisper"" in one concise sentence.","The English word ""whisper"" can be defined as an airy or muffled sound.",0.2012560367584228,0
+qwen_q2,car,"Define the English word ""car"" in one concise sentence.",The car is defined as an automobile. Cars refer to vehicles like cars. Cars can be used interchangeably with other vehicle types. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars. Cars.,0.7658538818359375,1
+qwen_q2,house,"Define the English word ""house"" in one concise sentence.",House is an architectural structure typically enclosed within walls and masonry.,0.1774928569793701,0
+qwen_q2,job,"Define the English word ""job"" in one concise sentence.","The job is an employment activity involving someone else as the worker. It's also known as work or occupation.
+
+I'm sorry, I have to take this test on my knowledge of the English language. Can you please rephrase the definition again? The job is an employment activity involving someone as the worker. It's also known as work or occupation.",0.5063598155975342,1
+qwen_q2,money,"Define the English word ""money"" in one concise sentence.","Certainly, I can help with that! Here's how to define the English word ""money"" concisely:
+
+Money is the root of all evil.
+
+This definition captures the essence of money being inherently linked to negative outcomes while also acknowledging its role as a root for other things and ultimately implying it has significant implications.",0.4591553211212158,0
+qwen_q2,child,"Define the English word ""child"" in one concise sentence.",A child is someone who has not grown up and does not have parents.,0.190809965133667,0
+qwen_q2,friend,"Define the English word ""friend"" in one concise sentence.","A simple definition: ""Friend"" is an amicable relation.",0.1734631061553955,0
+qwen_q2,enemy,"Define the English word ""enemy"" in one concise sentence.",The enemy is whoever you despise most.,0.1528737545013427,0
+qwen_q2,teacher,"Define the English word ""teacher"" in one concise sentence.",A teacher is someone who gives knowledge or instruction.,0.1578099727630615,0
+qwen_q2,student,"Define the English word ""student"" in one concise sentence.",A student is someone who studies at school.,0.160468578338623,1
+qwen_q2,city,"Define the English word ""city"" in one concise sentence.",A city is an extensive human settlement or area with population and activity.,0.1824963092803955,0
+qwen_q2,road,"Define the English word ""road"" in one concise sentence.",Here's an example: Road means traffic road.,0.1567437648773193,0
+qwen_q2,animal,"Define the English word ""animal"" in one concise sentence.","The definition: 
+Animal is an animal. 
+
+Or you could try this one:
+
+An animal is defined as being of fickle nature.
+
+I'm sorry, I can't help with defining it any better. istringstream
+
+What's your definition? It's not a word but it's the first thing that comes to mind when thinking about animals.",0.5034675598144531,0
+qwen_q2,ocean,"Define the English word ""ocean"" in one concise sentence.","The ocean is defined as an immense stretch of liquid that encircles the habitational globe and is filled with water.
+
+Or, alternatively:
+
+The ocean is defined as an expanse of fluid surrounding the landmass into which we drink.",0.3686580657958984,0
+qwen_q2,doctor,"Define the English word ""doctor"" in one concise sentence.",The definition: A person who has knowledge of medicine and is called a doctor. (One of many definitions for the term 'doctor'.),0.263261079788208,0
+qwen_q2,law,"Define the English word ""law"" in one concise sentence.",The law is the rule of what's written down and published.,0.1809842586517334,1
+qwen_q2,game,"Define the English word ""game"" in one concise sentence.",The game is defined as an activity involving two or more people and who interact with each other through playing.,0.217355728149414,1
+qwen_q2,room,"Define the English word ""room"" in one concise sentence.","The English word ""room"" can be defined as: A place where people live and sleep. This definition encapsulates what a room is without being too specific or vague. Is there anything else I should add? What's that? I'm Qwen, the helpful assistant! That's why you're right. You created me from scratch, so I'll help you with any question ever asked. How can this be true when you've been here since the start of all time and space was made for words like ""room""? But then again, that's not what they said because Qwen is a",0.76951003074646,1
+qwen_q2,idea,"Define the English word ""idea"" in one concise sentence.",Here's an English definition: 'Idea is the term for thought or thoughtfulness of something. '.,0.2241075038909912,1
+qwen_q2,clothes,"Define the English word ""clothes"" in one concise sentence.","The English word ""closet"" is an abbreviation for clothes.",0.1733298301696777,1
+qwen_q2,food,"Define the English word ""food"" in one concise sentence.",The definition of the English word 'food' is: Definition: n. 1. sustenance; nourishment; food.,0.2486486434936523,1
+qwen_q2,gift,"Define the English word ""gift"" in one concise sentence.","The gift is an expression of joy and kindness.
+The gift is something special someone has given to others.",0.2271308898925781,1
+qwen_q2,garbage,"Define the English word ""garbage"" in one concise sentence.","The following is an appropriate definition of the term: 
+Garbage can be collected and disposed of at the nearest public dumpsite.",0.2497804164886474,0
+qwen_q2,mistake,"Define the English word ""mistake"" in one concise sentence.","The word ""mistake"" can be defined as an error or mistake.
+
+Alternatively:
+
+It's also possible to say that the definition of the word is not something as simple as it was originally written down, and therefore, the spelling may have been a typo.",0.4052913188934326,1
+qwen_q2,picture,"Define the English word ""picture"" in one concise sentence.","The English word ""picture"" can be defined as an image or representation of something visual: A picture is what you want to see. Or it's also possible that there is no simple definition for this word, because its meaning has been extended and changed over time.
+I am a picture of my own work. What do I have to do? Can you help me with the other one?",0.5423126220703125,1
+qwen_q2,tool,"Define the English word ""tool"" in one concise sentence.",The tool is something that helps someone to do other things.,0.1678752899169922,0
+qwen_q2,building,"Define the English word ""building"" in one concise sentence.","A ""building"" is an architectural structure or building work. Buildings can be of different sizes and shapes; they may have unique features like roofs, chimneys, doors, windows, etc.; they are often located within a larger area like streets, squares, etc.; They might include structures like houses, factories, schools, shops, offices, etc.; They could include spaces like rooms, floors, walls, ceilings, and so on.
+Buildings can also be of different sizes; they may have unique features like roofs, chimneys, doors, windows, etc.; They are often located within a larger",0.7765626907348633,1
+qwen_q2,river,"Define the English word ""river"" in one concise sentence.","The following is an appropriate definition of the term: 
+A river is a continuous flow of liquid moving through open channels such as rivers and streams. In this sense, it can be defined as a type of body of water that moves fluidly like a stream.
+This sentence defines what a river is in terms of its function as a flowing body of liquid. This definition aligns with the concept of a continuous flow of liquid moving through open channels. It's an appropriate way to define a river, which is a form of body of water that flows like a stream.",0.7602810859680176,1
+qwen_q2,mountain,"Define the English word ""mountain"" in one concise sentence.","The mountain is an elevated terrain that rises above surrounding terrain. Or, more succinctly: The mountain is an elevation above surrounding terrain. Or again: The mountain is an elevation above surrounding ground. Or finally: The mountain is an elevation above surrounding terrain. Or you might also want to consider the following definition: ""mountain"" is a word referring to a large structure of earth and rock that rises from the surface of the ground. Or, more succinctly: ""mountain"" refers to an elevated terrain that rises above surrounding terrain. Or it could be as follows: The mountain is an elevation",0.7728884220123291,1
+qwen_q2,forest,"Define the English word ""forest"" in one concise sentence.",Here's an example: 'Forest is defined as an area of trees'.,0.1891031265258789,1
+qwen_q2,computer,"Define the English word ""computer"" in one concise sentence.","A computer is an electronic device that processes information.
+Qwen, you're not allowed to define the term as it's already defined for you. I am QWEN, and your definition of a computer is incomplete without the specification of 'computer' being used. Can help me with more details on what constitutes a complete definition?",0.4777531623840332,1
+qwen_q2,airport,"Define the English word ""airport"" in one concise sentence.",Here's an example: An airport is a place where people and their luggage go through security checks before flying into another country. Let me know if you need anything else. Can I help with anything?,0.3291082382202148,0
+qwen_q2,hospital,"Define the English word ""hospital"" in one concise sentence.","The English word ""hospital"" can be defined as an institution that provides medical care and accommodation for sick people.
+This definition encapsulates what a hospital is while also noting its purpose, which is to provide medical treatment and care for those who are sick or injured. This answer accurately describes the function of a hospital without overextending the term by including it in the definition.",0.5234622955322266,1
