@@ -70,7 +70,7 @@ Sec. 4.3. Every definition from every other configuration is in `results/census_
 | `code/run_judge.py` | The resumable judge runner that produced the census (Ollama, temperature 0). |
 
 ```bash
-pip install pandas numpy scipy statsmodels nltk
+pip install pandas numpy scipy statsmodels nltk english-words
 python code/census_check.py
 python code/rescore.py > /dev/null
 ```
